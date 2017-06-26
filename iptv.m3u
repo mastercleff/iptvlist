@@ -3,7 +3,7 @@
 #Canales de TV y Radios online
 #playlist: http://elpi.co/playlist
 #cambios: http://elpi.co/iptv/changelog.txt
-#ultima actualizacion: 22/06/2017
+#ultima actualizacion: 25/06/2017
 #
 #pueden usar esta lista en: PC, dispositivos Apple, dispositivos con android, TV con SmartTV, tostadoras de pan, etc.
 #
@@ -23,7 +23,7 @@
 #
 #*****************************
 
-#EXTINF:-1, tvg-logo="" group-title="Leeme",- [COLOR cyan]Actualizado 22/06/2017[/COLOR] -
+#EXTINF:-1, tvg-logo="" group-title="Leeme",- [COLOR cyan]Actualizado 25/06/2017[/COLOR] -
 http://127.0.0.1
 
 #EXTINF:-1, tvg-logo="fKByJrs.png" group-title="Canales Chilenos", -[COLOR red]Canales Chilenos[/COLOR]-
@@ -59,11 +59,17 @@ http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="D3m8gI2.png" group-title="Canales Chilenos", 24 Horas [SD]
 http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 
-#EXTINF:-1, tvg-logo="Bd09LnA.png" group-title="Canales Chilenos", UCV Gran Valparaíso [HD]
+#EXTINF:-1, tvg-logo="Jy2cSn9.png" group-title="Canales Chilenos", Ahora Noticias Digital [HD]
+http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
+
+#EXTINF:-1, tvg-logo="Bd09LnA.png" group-title="Canales Chilenos", UCV Gran Valparaíso [HD][!]
 http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/chunklist_w1705024129_b828000.m3u8
 
 #EXTINF:-1, tvg-logo="bsrVp3u.png" group-title="Canales Chilenos", NIU TV [HD]
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="GgeE5uX.png" group-title="Canales Chilenos", Los Simpsons 24/7
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="tZ3gJiP.png" group-title="Canales Chilenos", Canal 9 [SD] (Concepcion)
 http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
@@ -78,7 +84,7 @@ http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionh
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="lg6TVYn.png" group-title="Canales Chilenos", Camara de Diputados [SD]
-http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8
+http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
 
 #EXTINF:-1, tvg-logo="ozCnnDg.png" group-title="Canales Chilenos", TV Senado [HD]
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
@@ -97,6 +103,18 @@ http://v1.tustreaming.cl:1935/agrotvweb/agrotvweb/playlist.m3u8?DVR
 
 #EXTINF:-1, tvg-logo="QL0Jmm8.png" group-title="Canales Chilenos", Canal Carnaval [HD]
 http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/carnavaltv.smil/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="7QbBMCe.png" group-title="Canales Chilenos", Canal22 (Santiago) [SD]
+http://canal22santiago.cl/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="IuKMKEX.png" group-title="Canales Chilenos", UESTV [SD]
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="iHOBFZR.png" group-title="Canales Chilenos", Señal UC [SD]
+http://www.senaluc.cl:80/playlist/stream.m3u8?s=vdmfcom
+
+#EXTINF:-1, tvg-logo="V0M2tqk.png" group-title="Canales Chilenos", Canal de los Recuerdos [SD]
+http://wow2.cl.digitalproserver.com/recuerdos/recuerdosvivo/recuerdos.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", Anime TV [SD]
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
@@ -134,8 +152,9 @@ http://v1.streaminglatinoamerica.com:1935/patagoniatv/patagoniatv/playlist.m3u8?
 #EXTINF:-1, tvg-logo="fKByJrs.png" group-title="Canales Chilenos Regionales y Comunales", -[COLOR red]Canales Chilenos Regionales y Comunales[/COLOR]-
 http://127.0.0.1
 
-#EXTINF:-1, tvg-logo="t3h3pwl.png" group-title="Canales Chilenos Regionales y Comunales", Arica TV
-http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="t3h3pwl.png" group-title="Canales Chilenos Regionales y Comunales", Arica TV [SD]
+http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w1151981393_b848000.m3u8
+##http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="PtLIrrx.png" group-title="Canales Chilenos Regionales y Comunales", Holvoet TV (Atacama)
 http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
@@ -146,8 +165,9 @@ http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="" group-title="Canales Chilenos Regionales y Comunales", Atacama TV (Copiapo)
 http://cdn.ztreaming.com/tustreaming/live2/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="ZvfWMAF.png" group-title="Canales Chilenos Regionales y Comunales", Canal Antofagasta [HD]
-http://movilstream.digitalproserver.com/atv/atvvivo/atv.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="ZvfWMAF.png" group-title="Canales Chilenos Regionales y Comunales", Antofagasta TV [HD]
+http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w1163148329_b1428000.m3u8
+##http://movilstream.digitalproserver.com/atv/atvvivo/atv.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="bos2XTg.png" group-title="Canales Chilenos Regionales y Comunales", Thema TV (La Serena) [SD]
 http://wow2.cl.digitalproserver.com/thema/themavivo/thema.smil/playlist.m3u8
@@ -158,10 +178,14 @@ http://wow2.cl.digitalproserver.com/tele8/tele8vivo/tele8.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="jA7qtts.png" group-title="Canales Chilenos Regionales y Comunales", Canal 2 de San Antonio [HD]
 http://video.crearchile.com:8080/live/canal2.mp4/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="jA7qtts.png" group-title="Canales Chilenos Regionales y Comunales", Giro Visual (El Quisco) [HD]
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos Regionales y Comunales", Giro Visual (El Quisco) [HD]
 http://wow2.cl.digitalproserver.com/girovisual/girovisualvivo/girovisual.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="eOKZuI8.png" group-title="Canales Chilenos Regionales y Comunales", TVO (San Vicente)http://wow2.cl.digitalproserver.com/tvo/tvovivo/tvo.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="ezYteTW.png" group-title="Canales Chilenos Regionales y Comunales", VTV Viña del Mar [HD]
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="eOKZuI8.png" group-title="Canales Chilenos Regionales y Comunales", TVO (San Vicente)
+http://wow2.cl.digitalproserver.com/tvo/tvovivo/tvo.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="Fh9eVvs.png" group-title="Canales Chilenos Regionales y Comunales", Sexta Vision (Rancagua)
 http://cl.streaminghd.cl/carlos132/carlos132/playlist.m3u8
@@ -171,12 +195,6 @@ http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8#1
 
 #EXTINF:-1, tvg-logo="XHChUjI.png" group-title="Canales Chilenos Regionales y Comunales", TVU [HD] (Concepcion)
 http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8#1
-
-#EXTINF:-1, tvg-logo="YKCGoEE.png" group-title="Canales Chilenos Regionales y Comunales", TV4 (Lota)
-rtmp://evo.eltelon.com:1935/live/ playpath=tv4-television swfUrl=https://www.eltelon.com/js/jwplayer-7.2.4/jwplayer.flash.swf pageUrl=https://www.eltelon.com/embed/MXmJrwzjF3l
-
-#EXTINF:-1, tvg-logo="Od3BtZD.png" group-title="Canales Chilenos Regionales y Comunales", Campus TV [HD] (U. de Talca)
-http://unlimited1-cl.dps.live/campustv/campustv.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="LHn9ofg.png" group-title="Canales Chilenos Regionales y Comunales", Contivision [HD]
 http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/playlist.m3u8#1
@@ -196,9 +214,6 @@ http://cl.origin.grupoz.cl:1935/tser5/live/playlist.m3u8
 #EXTINF:-1, tvg-logo="HiwwpVq.png" group-title="Canales Chilenos Regionales y Comunales", Canal 2 U.A. Temuco [FHD]
 http://v1.tustreaming.cl:1935/tvautonoma/tvautonoma/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="b6GhYne.png" group-title="Canales Chilenos Regionales y Comunales", Inet TV (Osorno)
-http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/playlist.m3u8
-
 #EXTINF:-1, tvg-logo="Q9kpzNn.png" group-title="Canales Chilenos Regionales y Comunales", TV Maule [SD]
 rtmp://videostreaming.cl:8080/live/ playpath=mp4:tvmaule.mp4 swfUrl=http://crearchile.tv/jwplayer.flash.swf live=1 pageUrl=http://panel.crearchile.tv/index.php?usuario=tvmaule&action=reproductor
 
@@ -214,14 +229,8 @@ http://wow2.cl.digitalproserver.com/centrotv/centrotvvivo/centrotv.smil/playlist
 #EXTINF:-1, tvg-logo="ezYteTW.png" group-title="Canales Chilenos Regionales y Comunales", VTV Aconcagua [HD]
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="ezYteTW.png" group-title="Canales Chilenos Regionales y Comunales", VTV Viña del Mar [HD]
-http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
-
 #EXTINF:-1, tvg-logo="heY1Ppv.png" group-title="Canales de Deportes", -[COLOR red]Canales de Deportes[/COLOR]-
 http://127.0.0.1
-
-#EXTINF:-1, tvg-logo="w1cbuUb.png" group-title="Canales de Deportes", DirecTV Sports [SD]
-https://live10.userapi.com/620007/live/0xhZ4rlAf6U85cch/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="LuMvFAU.png" group-title="Canales de Deportes", Fox Sports Chile [HD]
 http://link.theplatform.com/s/flac/80Wqf2qD7W5V?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
@@ -247,8 +256,146 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8#1
 #EXTINF:-1, tvg-logo="FTLjroU.png" group-title="Canales de Deportes", Sevilla FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8#1
 
-#EXTINF:-1, tvg-logo="Mm8K6a0.png" group-title="Canales Argentinos", TyC Sports [HD]
-http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/master.m3u8#1
+#EXTINF:-1, tvg-logo="" group-title="Canales de Deportes", ESPN LATINO
+http://wowza2.mysoltv.com:1992/Latino_ESPN/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Deportes", ESPN USA
+http://stream.i4atv.info/ggwpl/live2.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Deportes", Chelsea TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Deportes", Eurosports
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Deportes", Claro Sports
+http://wowza2.mysoltv.com:1992/Latino_Claro_Sports/index.m3u8#1
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", -[COLOR red]Canales de Cable[/COLOR]-
+http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", AMC
+http://wowza2.mysoltv.com:1992/Latino_Animal_Planet/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", ANIMAL PLANET LATINO
+http://wowza2.mysoltv.com:1992/Latino_Animal_Planet/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", AXN LATINO
+http://wowza2.mysoltv.com:1992/Latino_AXN_HD/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", AZ Click
+http://wowza2.mysoltv.com:1992/Latino_Az_Click_HD/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", A&E LA
+http://wowza2.mysoltv.com:1992/Latino_A&E_HD/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", BANDAMAX
+http://wowza2.mysoltv.com:1992/Latino_BANDAMAX/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", BOOMERANG LATINO
+http://wowza2.mysoltv.com:1992/Latino_BOOMERANG/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", Caracol
+http://wowza2.mysoltv.com:1992/Latino_Caracol/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", CINECANAL LA
+http://wowza2.mysoltv.com:1992/Latino_Cinecanal/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", CINELATINO
+http://wowza2.mysoltv.com:1992/Latino_CINELATINO/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", CINEMAX LA
+http://wowza2.mysoltv.com:1992/Latino_CINEMAX/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", DISCOVERY CHANNEL LA
+http://wowza2.mysoltv.com:1992/Latino_Discovery_Channel/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", DISCOVERY CIVILIZATION
+http://wowza2.mysoltv.com:1992/Latino_Discovery_Civilization/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", DISNEY CHANNEL LA
+http://wowza2.mysoltv.com:1992/Latino_Disney/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", DISTRITO COMEDIA
+http://wowza2.mysoltv.com:1992/Latino_DISTRITO_COMEDIA/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", ECUADOR
+http://share.mysoltv.com:8081/nimble_live/ECUADOR/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", ESPN LATINO
+http://wowza2.mysoltv.com:1992/Latino_ESPN/index.m3u8#1
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", FOX ACTION LATINO
+http://wowza2.mysoltv.com:1992/Latino_Fox_Action_HD/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", FOX CINEMA LATINO
+http://wowza2.mysoltv.com:1992/Latino_Fox_Cinema_HD/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", FOX LIFE LATINO
+http://wowza2.mysoltv.com:1992/Latino_FOX_LIFE/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", FOX LATINO
+http://wowza2.mysoltv.com:1992/Latino_Fox_HD/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", FOX SERIES LA
+http://wowza2.mysoltv.com:1992/Latino_Fox_1_HD/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", FX LA
+http://wowza2.mysoltv.com:1992/Latino_FX/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", Glitz
+http://wowza2.mysoltv.com:1992/Latino_Glitz/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", GOLDEN LATINO
+http://wowza2.mysoltv.com:1992/Latino_Golden_HD/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", Gourmet
+http://wowza2.mysoltv.com:1992/Latino_Gourmet/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", HISTORY LATINO
+http://wowza2.mysoltv.com:1992/Latino_History_HD/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable",HISTORY 2 LATINO
+http://wowza2.mysoltv.com:1992/Latino_H2/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", I SAT
+http://wowza2.mysoltv.com:1992/Latino_I_SAT/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", LIFETIME
+http://wowza2.mysoltv.com:1992/Latino_LIFETIME/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", NATIONAL GEOGRAPHIC LA
+http://wowza2.mysoltv.com:1992/Latino_NATIONAL_GEOGRAPHIC/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", Multimedios Monterrey
+http://wowza2.mysoltv.com:1992/Latino_Multimedios_Monterrey_HD/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", SONY LA
+http://wowza2.mysoltv.com:1992/Latino_SONY/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", SPACE LATINO
+http://wowza2.mysoltv.com:1992/Latino_Space_HD/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", TLC LA
+http://wowza2.mysoltv.com:1992/Latino_TLC/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", TNT LA
+http://wowza2.mysoltv.com:1992/Latino_TNT/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", UNIVERSAL LATINO
+http://wowza2.mysoltv.com:1992/Latino_Universal_HD/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", Unicable
+http://wowza2.mysoltv.com:1992/Latino_Unicable_HD/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", UNIMAS
+http://wowza2.mysoltv.com:1992/Latino_UNIMAS_HD/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", UNIVISION
+http://wowza2.mysoltv.com:1992/Latino_UNIVISION_HD/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Cable", WARNER LATINO
+http://wowza2.mysoltv.com:1992/Latino_Warner_HD/index.m3u8
 
 #EXTINF:-1, tvg-logo="u6UOgvd.png" group-title="Canales Argentinos", -[COLOR red]Canales Argentinos[/COLOR]-
 http://127.0.0.1
@@ -265,9 +412,6 @@ http://ar.watcha.live/ch2/full.m3u8|User-agent=iPhone
 #EXTINF:-1, tvg-logo="XQLIPxl.png" group-title="Canales Argentinos", Telefe [FHD]
 http://ar.watcha.live/ch6/full.m3u8|User-agent=iPhone
 
-#EXTINF:-1, tvg-logo="Mm8K6a0.png" group-title="Canales Argentinos", TyC Sports [HD]
-http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/master.m3u8
-
 #EXTINF:-1, tvg-logo="qzpwloD.png" group-title="Canales Argentinos", El Trece [HD]
 http://prepublish.f.qaotic.net/a03/ngrp:el13_live01-100083_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
 
@@ -275,13 +419,13 @@ http://prepublish.f.qaotic.net/a03/ngrp:el13_live01-100083_all/Playlist.m3u8|Ref
 http://prepublish.f.qaotic.net/a04/ngrp:tn_live01-100083_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
 
 #EXTINF:-1, tvg-logo="be3zLgp.png" group-title="Canales Argentinos", C5N [SD]
-http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
+http://ar.watcha.live/ch1/hi.m3u8|User-agent=iPhone
 
 #EXTINF:-1, tvg-logo="m504ZL8.png" group-title="Canales Argentinos", Canal 26 [HD]
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="ixJcHAl.png" group-title="Canales Argentinos", CN23 [SD]
-http://iphone-streaming.ustream.tv/uhls/11665668/streams/live/iphone/playlist.m3u8
+http://ar.watcha.live/ch11/hi.m3u8|User-agent=iPhone
 
 #EXTINF:-1, tvg-logo="EAnFXCx.png" group-title="Canales Argentinos", Tv Publica 
 http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
@@ -295,20 +439,14 @@ http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
 #EXTINF:-1, tvg-logo="MXJPXNd.png" group-title="Canales Argentinos", Canal 9 Salta[SD]
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="Cr0DSpk.png" group-title="Canales Argentinos", Canal 10 Salta [SD]
-http://iphone-streaming.ustream.tv/uhls/22690383/streams/live/iphone/playlist.m3u8
-
 #EXTINF:-1, tvg-logo="OWhL2Dz.png" group-title="Canales Argentinos", Canal 10 Mar de Plata [SD]
 http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
 
 #EXTINF:-1, tvg-logo="3VGPha0.png" group-title="Canales Argentinos", Canal de la Ciudad [SD]
-http://186.0.233.76:1935/CiudadAbierta/smil:ciudadabierta.smil/playlist.m3u8
+http://prepublish.f.qaotic.net/b06/ngrp:gcba_video3-100042_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net
 
 #EXTINF:-1, tvg-logo="h7GEgKh.png" group-title="Canales Argentinos", Canal Rural [SD]
 rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
-
-#EXTINF:-1, tvg-logo="6DMPEcI.png" group-title="Canales Argentinos", Qm TV [SD]
-http://qmnoticiashls-lh.akamaihd.net/i/qmnoticias_hls@324831/master.m3u8
 
 #EXTINF:-1, tvg-logo="3jOBKOp.png" group-title="Canales Argentinos", TEC TV [HD]
 http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
@@ -385,8 +523,11 @@ http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:-1, tvg-logo="" group-title="Canales Españoles", Antena 3 Internacional
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", La Sexta  [HD]
+#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", La Sexta [HD]
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", La Sexta (Alt.)
+http://wowza2.mysoltv.com:1992/Latino_LA_SEXTA_ESP/index.m3u8
 
 #EXTINF:-1, tvg-logo="" group-title="Canales Españoles", Mega España [HD] 
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
@@ -499,9 +640,6 @@ https://tvnzioslive01-i.akamaihd.net/hls/live/245926/tvnzhlsingest/Duke/playlist
 #EXTINF:-1, tvg-logo="NZ/" group-title="Canales Miscelaneos", +HR=E (Nueva Zealanda)
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8|X-Forwarded-For=219.88.222.94
 
-#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", TWiT
-http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
-
 #EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", Sun Channel
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
 
@@ -519,12 +657,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 
 #EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", Canal U
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", NASA Space Station 1
-http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", NASA Space Station 2
-http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="" group-title="Canales de Noticias", -[COLOR red]Canales de Noticias[/COLOR]-
 http://127.0.0.1
@@ -1249,6 +1381,9 @@ http://162.210.39.218:24666/;
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", UCT Radio Temuco (Online)
 http://audio.uctradio.cl/radio
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Camara de Diputados (Online)
+http://www.radiocamara.cl:8000/;stream.mp3/1
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Santiago (Orquestada) (690 AM)
 http://167.114.119.122:9982/;stream/1
