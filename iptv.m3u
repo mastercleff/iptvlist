@@ -3,7 +3,7 @@
 #Canales de TV y Radios online
 #playlist: http://elpi.co/playlist
 #cambios: http://elpi.co/iptv/changelog.txt
-#ultima actualizacion: 25/06/2017
+#ultima actualizacion: 28/06/2017
 #
 #pueden usar esta lista en: PC, dispositivos Apple, dispositivos con android, TV con SmartTV, tostadoras de pan, etc.
 #
@@ -23,7 +23,7 @@
 #
 #*****************************
 
-#EXTINF:-1, tvg-logo="" group-title="Leeme",- [COLOR cyan]Actualizado 25/06/2017[/COLOR] -
+#EXTINF:-1, tvg-logo="" group-title="Leeme",- [COLOR cyan]Actualizado 28/06/2017[/COLOR] -
 http://127.0.0.1
 
 #EXTINF:-1, tvg-logo="fKByJrs.png" group-title="Canales Chilenos", -[COLOR red]Canales Chilenos[/COLOR]-
@@ -57,7 +57,7 @@ http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="D3m8gI2.png" group-title="Canales Chilenos", 24 Horas [SD]
-http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
+http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 
 #EXTINF:-1, tvg-logo="Jy2cSn9.png" group-title="Canales Chilenos", Ahora Noticias Digital [HD]
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
@@ -70,6 +70,9 @@ http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
 
 #EXTINF:-1, tvg-logo="GgeE5uX.png" group-title="Canales Chilenos", Los Simpsons 24/7
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="vcWpxyZ.png" group-title="Canales Chilenos", Limo TVN
+http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8
 
 #EXTINF:-1, tvg-logo="tZ3gJiP.png" group-title="Canales Chilenos", Canal 9 [SD] (Concepcion)
 http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
@@ -118,6 +121,9 @@ http://wow2.cl.digitalproserver.com/recuerdos/recuerdosvivo/recuerdos.smil/playl
 
 #EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", Anime TV [SD]
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1, tvg-logo="7PJa0UE.png" group-title="Canales Chilenos", Locomotion [SD]
+http://locomotiontv.com/locomotion/hls/index.m3u8
 
 #EXTINF:-1, tvg-logo="ANeUy23.png" group-title="Canales Chilenos", Kino (miercoles y domingo) [SD]
 http://unlimited2-cl.digitalproserver.com/loteria/loteria.smil/playlist.m3u8
@@ -215,10 +221,10 @@ http://cl.origin.grupoz.cl:1935/tser5/live/playlist.m3u8
 http://v1.tustreaming.cl:1935/tvautonoma/tvautonoma/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="Q9kpzNn.png" group-title="Canales Chilenos Regionales y Comunales", TV Maule [SD]
-rtmp://videostreaming.cl:8080/live/ playpath=mp4:tvmaule.mp4 swfUrl=http://crearchile.tv/jwplayer.flash.swf live=1 pageUrl=http://panel.crearchile.tv/index.php?usuario=tvmaule&action=reproductor
+http://videostreaming.cl:8080/live/tvmaule.mp4/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="sMz5zhi.png" group-title="Canales Chilenos Regionales y Comunales", Pucon TV [HD]
-rtmp://190.107.176.55:1935/live/ playpath=pucon-tv swfUrl=http://www.eltelon.com/js/jwplayer-7.2.4/jwplayer.flash.swf live=1 pageUrl=http://www.eltelon.com/embed/jAGOAgVQEkU
+rtmp://190.107.176.55:1935/live/pucon-tv
 
 #EXTINF:-1, tvg-logo="9OxskO1.png" group-title="Canales Chilenos Regionales y Comunales", ITV Magallanes [HD]
 http://wow2.cl.digitalproserver.com/itv/itvvivo/itv.smil/playlist.m3u8
@@ -228,6 +234,60 @@ http://wow2.cl.digitalproserver.com/centrotv/centrotvvivo/centrotv.smil/playlist
 
 #EXTINF:-1, tvg-logo="ezYteTW.png" group-title="Canales Chilenos Regionales y Comunales", VTV Aconcagua [HD]
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="rzv06Mv.png" group-title="Canales Chilenos Regionales y Comunales", Canal2 | Quellon
+http://wow2.cl.digitalproserver.com/tvquellon/tvquellonvivo/tvquellon.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="FhCsepB.png" group-title="Canales Chilenos Regionales y Comunales", UTV | San Clemente
+http://cdn.mediostream.cl/utvs/livestream/playlist.m3u8?DVR
+
+#EXTINF:-1, tvg-logo="BUC9VO4.png" group-title="Canales Chilenos Regionales y Comunales", Soberania | Punta Arenas
+rtmp://evo.eltelon.com:1935/live/soberania
+
+#EXTINF:-1, tvg-logo="ilCiqga.png" group-title="Canales Chilenos Regionales y Comunales", Canal21 | Chillan
+rtmp://v1.streaminglatinoamerica.com:1935/canal21ch/canal21ch
+
+#EXTINF:-1, tvg-logo="HE71T1u.png" group-title="Canales Chilenos Regionales y Comunales", CNC | Colchagua
+http://audio.streaminghd.cl/8014/8014/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="A4iBb8H.png" group-title="Canales Chilenos Regionales y Comunales", Trailer TV
+http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="V9nFWcP.png" group-title="Canales Chilenos Regionales y Comunales", Trailer TV Kids
+http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="KEWy9Es.png" group-title="Canales Chilenos Regionales y Comunales", MaximaTV | San Bernardo
+http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="pREVUAK.png" group-title="Canales Chilenos Regionales y Comunales", Morrovisíon | Arica
+http://video.crearchile.com:8080/live/mp4:morrovision.mp4/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="Jhbjyv1.png" group-title="Canales Chilenos Regionales y Comunales", TV4 | Lota
+rtmp://evo.eltelon.com:1935/live/tv4-television
+
+#EXTINF:-1, tvg-logo="LzOTwy6.png" group-title="Canales Chilenos Regionales y Comunales", Ufrovision | Temuco
+http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
+
+#EXTINF:-1, tvg-logo="WmeeTAs.png" group-title="Canales Chilenos Regionales y Comunales", Canal 33 | Temuco
+http://190.107.176.55:1935/live/canal-33/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="clOlWBz.png" group-title="Canales Chilenos Regionales y Comunales", Canal 11 | Aysen
+http://v1.streaminglatinoamerica.com:1935/aysentv/aysentv/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="NC6CJlZ.png" group-title="Canales Chilenos Regionales y Comunales", ATV | Valdivia
+http://evo.eltelon.com:1935/live/atv-valdivia/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="7aGTy1i.png" group-title="Canales Chilenos Regionales y Comunales", Canal 75 | Chiloe
+http://streaminglivehd.com:1935/8038/8038/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="dHJY9tc.png" group-title="Canales Chilenos Regionales y Comunales", RTV Canal 2 | Castro
+http://streaminglivehd.com:1935/8034/8034/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="IVMglX9.png" group-title="Canales Chilenos Regionales y Comunales", RadioPolarTV | Punta Arenas
+rtmp://evo.eltelon.com:1935/live/archi-polar
+
+#EXTINF:-1, tvg-logo="6it6e7v.png" group-title="Canales Chilenos Regionales y Comunales", Canal 5 | Osorno
+http://videostreaming.cl:8080/live/mp4:radiosanjose.mp4/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="heY1Ppv.png" group-title="Canales de Deportes", -[COLOR red]Canales de Deportes[/COLOR]-
 http://127.0.0.1
@@ -431,7 +491,7 @@ http://ar.watcha.live/ch11/hi.m3u8|User-agent=iPhone
 http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
 
 ##EXTINF:-1, tvg-logo="P9jG8Lq.png" group-title="Canales Argentinos", Canal 7 Mendoza [HD](*youtube)
-#https://www.youtube.com/watch?v=cmo6uqcWkXc
+##https://www.youtube.com/watch?v=cmo6uqcWkXc
 
 #EXTINF:-1, tvg-logo="1gwf0xO.png" group-title="Canales Argentinos", Canal 4 Jujuy [HD]
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
@@ -726,6 +786,9 @@ http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 
 #EXTINF:-1, tvg-logo="PCU1h8M.png" group-title="Canales de Noticias", Channel NewsAsia
 http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+
+#EXTINF:-1, tvg-logo="PCU1h8M.png" group-title="Canales de Noticias",Reuters
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 
 #EXTINF:-1, tvg-logo="" group-title="Canales de Musica", -[COLOR red]Canales de Musica[/COLOR]-
 http://127.0.0.1
@@ -1022,10 +1085,13 @@ http://stream5.eltelon.com/el-conquistador-santiago.aac
 http://16643.live.streamtheworld.com/ADN_SC
 
 ##EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", ADN (91.7 FM) (con Video)
-#http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
+##http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Centro FM (91.7 FM Gorbea)
 http://184.107.188.38:8040/;
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Desierto FM (92.1 FM Antofagasta)
+http://167.114.208.100:9864/;stream1
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Agricultura (92.1 FM)
 http://unlimited3-cl.dps.live/agricultura/aac/icecast.audio
@@ -1132,6 +1198,9 @@ http://200.111.113.18:8500/;
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Genesis (96.5 FM Curacautin)
 http://stream5.eltelon.com/genesis.aac
 
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Carnaval Antofagasta (96.5 FM)
+http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac
+
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Loactual (96.7 FM Calama)
 http://rs.comtic.net:8000/;
 
@@ -1143,6 +1212,9 @@ http://stream5.eltelon.com/san-bartolome.aac
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Uno (97.1 FM)
 http://14073.live.streamtheworld.com/RADIO_UNO_SC
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio FM7 (Calama 97.3, Antofagasta 89.7)
+http://198.50.154.235:10258/stream
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Zero (97.7 FM)
 http://tunein.digitalproserver.com/zerobb.aac
@@ -1194,6 +1266,9 @@ http://sc6.digitalproserver.com:8120/;
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Bio-Bio La Radio Santiago (99.7 FM)
 http://unlimited1-cl.dps.live/biobiosantiago/aac/icecast.audio
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Universidad de Antofagasta (99.9 FM)
+http://200.54.114.230:8000/;
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Infinita (100.1 FM)
 http://tunein.digitalproserver.com/infinitabb.aac
@@ -1253,7 +1328,7 @@ http://s6.jcwebnew.com:7060/;
 http://streaming.fmokey.cl:8000/FmOkCP.mp3
 
 ##EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Tele13 Radio (con Video) (103.3 FM)
-#http://cdn.ztreaming.com/t13radio/mobile.m3u8
+##http://cdn.ztreaming.com/t13radio/mobile.m3u8
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Centro FM (103.3 FM Antofagasta)
 http://stream5.eltelon.com/centro.aac
