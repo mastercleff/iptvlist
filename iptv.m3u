@@ -1,9 +1,9 @@
 #EXTM3U
 
 #Canales de TV y Radios online
-#playlist: http://elpi.co/playlist
-#cambios: http://elpi.co/iptv/changelog.txt
-#ultima actualizacion: 06/07/2017
+#playlist: http://lao.pe/tv
+#cambios: http://lao.pe/b/
+#ultima actualizacion: 13/07/2017
 #
 #pueden usar esta lista en: PC, dispositivos Apple, dispositivos con android, TV con SmartTV, tostadoras de pan, etc.
 #
@@ -11,7 +11,7 @@
 #Como usar esta lista en Kodi:
 #
 # - habilitar PVR IPTV Simple Client en PVR Addons
-# - en la configuracion de PVR IPTV Simple Client elegir Remote Path y agregar http://elpi.co/playlist
+# - en la configuracion de PVR IPTV Simple Client elegir Remote Path y agregar http://lao.pe/tv
 # - desmarcar la opcion de guardar la lista en cache, asi siempre se descargara la lista mas actualizada.
 #
 #*****************************
@@ -23,7 +23,7 @@
 #
 #*****************************
 
-#EXTINF:-1, tvg-logo="" group-title="Leeme",- [COLOR cyan]Actualizado 06/07/2017[/COLOR] -
+#EXTINF:-1, tvg-logo="" group-title="Leeme",- [COLOR cyan]Actualizado 13/07 | lao.pe/tv[/COLOR] -
 http://127.0.0.1
 
 #EXTINF:-1, tvg-logo="fKByJrs.png" group-title="Canales Chilenos", -[COLOR red]Canales Chilenos[/COLOR]-
@@ -74,6 +74,12 @@ http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.
 #EXTINF:-1, tvg-logo="9D6jpxM.png" group-title="Canales Chilenos", Limo TVN
 http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8
 
+#EXTINF:-1, tvg-logo="5egLidz.png" group-title="Canales Chilenos", TVN Kids
+http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8
+
+#EXTINF:-1, tvg-logo="iHOBFZR.png" group-title="Canales Chilenos", Señal UC [SD]
+http://www.senaluc.cl:80/playlist/stream.m3u8?s=vdmfcom
+
 #EXTINF:-1, tvg-logo="tZ3gJiP.png" group-title="Canales Chilenos", Canal 9 [SD] | Concepcion
 http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
 
@@ -110,23 +116,14 @@ http://canal22santiago.cl/playlist.m3u8
 #EXTINF:-1, tvg-logo="IuKMKEX.png" group-title="Canales Chilenos", UESTV [SD]
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="iHOBFZR.png" group-title="Canales Chilenos", Señal UC [SD]
-http://www.senaluc.cl:80/playlist/stream.m3u8?s=vdmfcom
-
 #EXTINF:-1, tvg-logo="V0M2tqk.png" group-title="Canales Chilenos", Canal de los Recuerdos [SD]
 http://wow2.cl.digitalproserver.com/recuerdos/recuerdosvivo/recuerdos.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", Anime TV [SD]
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
-#EXTINF:-1, tvg-logo="7PJa0UE.png" group-title="Canales Chilenos", Locomotion [SD]
-http://locomotiontv.com/locomotion/hls/index.m3u8
-
 #EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", Gravity Falls 24/7
 http://stream.latino-webtv.com/series/gravityfalls.mp4
-
-#EXTINF:-1, tvg-logo="ANeUy23.png" group-title="Canales Chilenos", Kino (miercoles y domingo) [SD]
-http://unlimited2-cl.digitalproserver.com/loteria/loteria.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="fKByJrs.png" group-title="Radios Chilenas con Video", -[COLOR red]Radios Chilenas con Video[/COLOR]-
 http://127.0.0.1
@@ -193,7 +190,7 @@ http://movilstream.digitalproserver.com/vox/voxvivo/vox.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="ezYteTW.png" group-title="Canales Chilenos Regionales y Comunales", VTV [HD] | Viña del Mar
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="ezYteTW.png" group-title="Canales Chilenos Regionales y Comunales", CSS TV [SD] | Melipilla
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos Regionales y Comunales", CSS TV [SD] | Melipilla
 http://xcanal_cssx.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="eOKZuI8.png" group-title="Canales Chilenos Regionales y Comunales", TVO | San Vicente
@@ -295,8 +292,15 @@ rtmp://evo.eltelon.com:1935/live/archi-polar
 #EXTINF:-1, tvg-logo="6it6e7v.png" group-title="Canales Chilenos Regionales y Comunales", Canal 5 | Osorno
 http://videostreaming.cl:8080/live/mp4:radiosanjose.mp4/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="IDTH3wK.png" group-title="Canales Chilenos Regionales y Comunales", Canal 5 | Linares
+http://v1.tustreaming.cl:1935/canal5/canal5/playlist.m3u8
+
+
 #EXTINF:-1, tvg-logo="heY1Ppv.png" group-title="Canales de Deportes", -[COLOR red]Canales de Deportes[/COLOR]-
 http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="dlaHB8a.png" group-title="Canales de Deportes", CDF Premium [SD]
+http://edge3506.livesports.pw/live/vercdf762fe9fba2e0fd1c144/index.m3u8|Referer=http://livesports.pw/embed.php?file=cdf&width=650&height=390&User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36&X-Requested-With=ShockwaveFlash/23.0.0.162
 
 #EXTINF:-1, tvg-logo="LuMvFAU.png" group-title="Canales de Deportes", Fox Sports Chile [HD]
 http://link.theplatform.com/s/flac/80Wqf2qD7W5V?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
@@ -493,9 +497,6 @@ http://andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevisionh26
 #EXTINF:-1, tvg-logo="" group-title="Canales Españoles", Marbella TV [SD]
 http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", Telemadrid [SD]
-http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8
-
 #EXTINF:-1, tvg-logo="" group-title="Canales Españoles", LaOtra [SD]
 http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
 
@@ -516,6 +517,11 @@ http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="" group-title="Canales Españoles", Rioja TV [SD]
 mms://87.106.208.121/stv
+
+#EXTINF:-1, tvg-logo="tMtktw0.jpg" group-title="Canales Españoles", Betis TV [SD]
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
+
+
 
 #EXTINF:-1, tvg-logo="RLmLtpl.png" group-title="Canales Mexicanos", -[COLOR red]Canales Mexicanos[/COLOR]-
 http://127.0.0.1
@@ -729,6 +735,11 @@ http://wow01.105.net/live/virgin1/.m3u8
 
 #EXTINF:-1, tvg-logo="" group-title="Canales de Musica", Heavy Metal TV
 rtmp://70.166.98.130:1935/hmtv/myStream
+
+#EXTINF:-1, tvg-logo="HwCs0mH.png" group-title="Canales de Musica", Melody Channel [SD]
+rtsp://186.155.200.118:1935/live/MelodyChannel
+
+
 
 #EXTINF:-1, tvg-logo="fKByJrs.png" group-title="Unidad Operativa de Control de Transito", -[COLOR red]UOCT[/COLOR]-
 http://127.0.0.1
@@ -1380,7 +1391,6 @@ http://stream12.iloveradio.de/iloveradio4-aac.mp3
 
 #EXTINF:-1, radio="true" tvg-logo="muAbebc.png" group-title="Radios Chilenas", I Love Radio Pop | Online
 http://stream12.iloveradio.de/iloveradio10-aac.mp3
-
 
 
 
