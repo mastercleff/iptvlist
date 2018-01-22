@@ -1,9 +1,9 @@
-EXTM3U
+#EXTM3U
 
 #Canales de TV y Radios online
 #playlist: http://lao.pe/tv
 #cambios: http://lao.pe/b/
-#ultima actualizacion: 03/10/2017
+#ultima actualizacion: 08/01/2018
 #
 #pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 #
@@ -23,7 +23,7 @@ EXTM3U
 #
 #*****************************
 
-#EXTINF:-1, tvg-logo="" group-title="Leeme",- [COLOR cyan]Actualizado 03/10/2017[/COLOR] -
+#EXTINF:-1, tvg-logo="" group-title="Leeme",- [COLOR cyan]Actualizado 08/01/2018[/COLOR] -
 http://127.0.0.1
 
 #EXTINF:-1, tvg-logo="fKByJrs.png" group-title="Canales Chilenos", -[COLOR red]Canales Chilenos[/COLOR]-
@@ -62,13 +62,10 @@ http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 #EXTINF:-1, tvg-logo="0kJfD7l.png" group-title="Canales Chilenos", TV Chile | HD
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
-#EXTINF:-1, tvg-logo="0kJfD7l.png" group-title="Canales Chilenos", TV Chile | HD (Mirror USA)
-https://vivoplay-i.akamaihd.net/hls/live/255329/canal8/master.m3u8
-
 #EXTINF:-1, tvg-logo="Jy2cSn9.png" group-title="Canales Chilenos", Ahora Noticias Digital | HD
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 
-#EXTINF:-1, tvg-logo="1x7h1ve.png" group-title="Canales Chilenos", UCV Gran Valparaíso | HD
+#EXTINF:-1, tvg-logo="sEocONH.png" group-title="Canales Chilenos", UCV 3 | HD
 http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="bsrVp3u.png" group-title="Canales Chilenos", NIU TV | HD
@@ -83,9 +80,6 @@ http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8
 #EXTINF:-1, tvg-logo="2HGma9m.png" group-title="Canales Chilenos", CDO | SD
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="iHOBFZR.png" group-title="Canales Chilenos", Señal UC | SD
-http://www.senaluc.cl:80/playlist/stream.m3u8?s=vdmfcom
-
 #EXTINF:-1, tvg-logo="tZ3gJiP.png" group-title="Canales Chilenos", Canal 9 | HD | Concepcion
 http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
 
@@ -98,6 +92,7 @@ http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionh
 #EXTINF:-1, tvg-logo="LHn9ofg.png" group-title="Canales Chilenos", Contivision Musica | HD
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8
 
+
 #EXTINF:-1, tvg-logo="lg6TVYn.png" group-title="Canales Chilenos", Camara de Diputados | SD
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
 
@@ -108,7 +103,7 @@ http://camara.02.cl.cdnz.cl/cdndvr/ngrp:live_all/playlist.m3u8?DVR
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
 
 #EXTINF:-1, tvg-logo="KO9XhLU.png" group-title="Canales Chilenos", Teletrak | HD
-rtmp://edge1.cl.grupoz.cl/teletrak/ playpath=live swfUrl=http://live.grupoz.cl/swf/jwplayer.flash.swf live=1 pageUrl=http://live.grupoz.cl/61b0f5120768b40f627d98dce728d71b
+http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="KO9XhLU.png" group-title="Canales Chilenos", Sporting | HD
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
@@ -125,23 +120,23 @@ http://wow2.cl.digitalproserver.com/recuerdos/recuerdosvivo/recuerdos.smil/playl
 #EXTINF:-1, tvg-logo="DAXmZWE.png" group-title="Canales Chilenos", FM Hot | HD
 http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="Canales de Animacion", -[COLOR red]Canales de Animacion[/COLOR]-
+#EXTINF:-1, tvg-logo="1QZNvHK.jpg" group-title="Canales de Animacion", -[COLOR red]Canales de Animacion[/COLOR]-
 http://127.0.0.1
 
 #EXTINF:-1, tvg-logo="BD6MSBE.png" group-title="Canales de Animacion", ACS Network TV | SD
 http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="GgeE5uX.png" group-title="Canales de Animacion", Los Simpsons 24/7 | SD
-http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
-
 #EXTINF:-1, tvg-logo="vGtdArJ.png" group-title="Canales de Animacion", Anime TV | SD
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
-#EXTINF:-1, tvg-logo="eq9q8KW.png" group-title="Canales de Animacion", Locomotion | SD
-http://locomotiontv.com/envivo/loco_app/stream.m3u8
-
 #EXTINF:-1, tvg-logo="5egLidz.png" group-title="Canales de Animacion", TVN Kids | SD
 http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8?
+
+#EXTINF:-1, tvg-logo="xAsLsmQ.png" group-title="Canales de Animacion", Adult Swim | HD
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
+
+#EXTINF:-1, tvg-logo="eq9q8KW.png" group-title="Canales de Animacion", Locomotion | SD
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 
 #EXTINF:-1, tvg-logo="fKByJrs.png" group-title="Radios Chilenas con Video", -[COLOR red]Radios Chilenas con Video[/COLOR]-
 http://127.0.0.1
@@ -161,7 +156,7 @@ http://unlimited5-cl.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="TtrfkSG.png" group-title="Radios Chilenas con Video", Radio Carolina (TV) | SD (99.3 FM)
 http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="BT7EmIh.png" group-title="Radios Chilenas con Video", Infinita (TV) | SD (100.1 FM)
+#EXTINF:-1, tvg-logo="BT7EmIh.png" group-title="Radios Chilenas con Video", Infinita (TV) | SD (100.1 FM) [!]
 http://unlimited6-cl.dps.live/infinitatv/infinitatv.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="EwubKy5.png" group-title="Radios Chilenas con Video", Tele13 Radio (TV) | SD (103.3 FM)
@@ -179,6 +174,15 @@ http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="Jd8b6PN.jpg" group-title="Radios Chilenas con Video", Pandero Music Top | HD
 http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="X6fotOG.png" group-title="Radios Chilenas con Video", Radio Candela TV | HD
+http://unlimited1-cl.dps.live/candelatv/candelatv.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="7jXtbGr.jpg" group-title="Radios Chilenas con Video", Zero | SD [!]
+http://unlimited6-cl.digitalproserver.com/zerotv/zerotv.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="TeOq7Om.jpg" group-title="Radios Chilenas con Video", Futuro | SD
+http://unlimited1-cl.dps.live/futurotv/futurotv.smil/futurotv/livestream1/chunks.m3u8
+
 #EXTINF:-1, tvg-logo="fKByJrs.png" group-title="Canales Chilenos Regionales y Comunales", -[COLOR red]Canales Chilenos Regionales y Comunales[/COLOR]-
 http://127.0.0.1
 
@@ -192,27 +196,11 @@ http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="WsluQPH.png" group-title="Canales Chilenos Regionales y Comunales", Desierto de Atacama TV | HD | Atacama
 http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="KEFUhuz.png" group-title="Canales Chilenos Regionales y Comunales", Atacama TV | HD | Copiapo
-http://cdn.ztreaming.com/tustreaming/live2/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="rrHOSzq.png" group-title="Canales Chilenos Regionales y Comunales", RTC TV | SD | Iquique [!]
-http://cl.streaminghd.cl/cristian285/cristian285/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="ZvfWMAF.png" group-title="Canales Chilenos Regionales y Comunales", Antofagasta TV | HD | Antofagasta
-http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w1163148329_b1428000.m3u8
-##http://movilstream.digitalproserver.com/atv/atvvivo/atv.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="zzuHRC6.jpg" group-title="Canales Chilenos Regionales y Comunales", Chilevisual | SD | Antofagasta
+http://v3.tustreaming.cl/chilevisual/live1/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="bos2XTg.png" group-title="Canales Chilenos Regionales y Comunales", Thema TV | SD | La Serena
 http://wow2.cl.digitalproserver.com/thema/themavivo/thema.smil/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="DltCGW8.png" group-title="Canales Chilenos Regionales y Comunales", Tele8 | SD | Illapel 
-http://wow2.cl.digitalproserver.com/tele8/tele8vivo/tele8.smil/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="JmkdS9O.jpg" group-title="Canales Chilenos Regionales y Comunales", Giro Visual | SD | El Quisco
-http://wow2.cl.digitalproserver.com/girovisual/girovisualvivo/girovisual.smil/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="RSKzLXO.png" group-title="Canales Chilenos Regionales y Comunales", Vox Populi | SD | El Quisco
-http://movilstream.digitalproserver.com/vox/voxvivo/livestream2/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="jA7qtts.png" group-title="Canales Chilenos Regionales y Comunales", Canal 2 de San Antonio | HD | San Antonio
 http://video.crearchile.com:8080/live/canal2.mp4/playlist.m3u8
@@ -220,7 +208,7 @@ http://video.crearchile.com:8080/live/canal2.mp4/playlist.m3u8
 #EXTINF:-1, tvg-logo="ezYteTW.png" group-title="Canales Chilenos Regionales y Comunales", VTV | HD | Viña del Mar
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="7U0dm1j.png" group-title="Canales Chilenos Regionales y Comunales", CSS 57 | SD | Melipilla [!]
+#EXTINF:-1, tvg-logo="7U0dm1j.png" group-title="Canales Chilenos Regionales y Comunales", CSS 57 | SD | Melipilla
 http://xcanal_cssx.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="7QbBMCe.png" group-title="Canales Chilenos Regionales y Comunales", Canal22 (Santiago) | SD
@@ -229,7 +217,7 @@ http://canal22santiago.cl/playlist.m3u8
 #EXTINF:-1, tvg-logo="eOKZuI8.png" group-title="Canales Chilenos Regionales y Comunales", TVO | | HD | San Vicente
 http://wow2.cl.digitalproserver.com/tvo/tvovivo/tvo.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="Fh9eVvs.png" group-title="Canales Chilenos Regionales y Comunales", Sexta Vision | SD | Rancagua [!]
+#EXTINF:-1, tvg-logo="Fh9eVvs.png" group-title="Canales Chilenos Regionales y Comunales", Sexta Vision | SD | Rancagua
 http://cl.streaminghd.cl/carlos132/carlos132/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="tZ3gJiP.png" group-title="Canales Chilenos Regionales y Comunales", Canal 9 | HD | Concepcion
@@ -241,20 +229,20 @@ http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8#1
 #EXTINF:-1, tvg-logo="LHn9ofg.png" group-title="Canales Chilenos Regionales y Comunales", Contivision | HD | Constitucion
 http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/playlist.m3u8#1
 
-#EXTINF:-1, tvg-logo="LHn9ofg.png" group-title="Canales Chilenos Regionales y Comunales", Contivision Musica | HD | Constitucion
+#EXTINF:-1, tvg-logo="LHn9ofg.png" group-title="Canales Chilenos", Contivision Musica | HD
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8#1
 
 #EXTINF:-1, tvg-logo="VhOolgs.png" group-title="Canales Chilenos Regionales y Comunales", El Pinguino | SD |Punta Arenas
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/livestream.m3u8
 
-#EXTINF:-1, tvg-logo="VhOolgs.png" group-title="Canales Chilenos Regionales y Comunales", El Pinguino | HD | Punta Arenas
+#EXTINF:-1, tvg-logo="VhOolgs.png" group-title="Canales Chilenos Regionales y Comunales", El Pinguino (Alt) | HD | Punta Arenas
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
 
 #EXTINF:-1, tvg-logo="p7FPIgv.png" group-title="Canales Chilenos Regionales y Comunales", Umag TV | SD | Punta Arenas
 http://cl.origin.grupoz.cl:1935/tser5/live/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="HiwwpVq.png" group-title="Canales Chilenos Regionales y Comunales", Canal 2 U.A. Temuco | HD | Temuco
-http://v1.tustreaming.cl:1935/tvautonoma/tvautonoma/playlist.m3u8
+http://v3.tustreaming.cl/tvautonoma/live1/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="Q9kpzNn.png" group-title="Canales Chilenos Regionales y Comunales", TV Maule | SD | Talca 
 http://videostreaming.cl:8080/live/tvmaule.mp4/playlist.m3u8
@@ -263,7 +251,7 @@ http://videostreaming.cl:8080/live/tvmaule.mp4/playlist.m3u8
 http://wow2.cl.digitalproserver.com/centrotv/centrotvvivo/centrotv.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="sMz5zhi.png" group-title="Canales Chilenos Regionales y Comunales", Pucon TV | HD | Pucon
-rtmp://190.107.176.55:1935/live/pucon-tv
+http://190.107.176.55:1935/live/pucon-tv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="9OxskO1.png" group-title="Canales Chilenos Regionales y Comunales", ITV | HD | Magallanes
 http://wow2.cl.digitalproserver.com/itv/itvvivo/itv.smil/playlist.m3u8
@@ -275,13 +263,10 @@ http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 http://wow2.cl.digitalproserver.com/tvquellon/tvquellonvivo/tvquellon.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="FhCsepB.png" group-title="Canales Chilenos Regionales y Comunales", UTV | SD | San Clemente
-http://cdn.mediostream.cl/utvs/livestream/playlist.m3u8?DVR
+http://play.mediostream.cl/utvs/live1/index.m3u8
 
-#EXTINF:-1, tvg-logo="BUC9VO4.png" group-title="Canales Chilenos Regionales y Comunales", Soberania | SD | Punta Arenas
-rtmp://evo.eltelon.com:1935/live/soberania
-
-#EXTINF:-1, tvg-logo="ilCiqga.png" group-title="Canales Chilenos Regionales y Comunales", Canal 21 | Chillan [!]
-rtmp://v1.streaminglatinoamerica.com:1935/canal21ch/canal21ch
+#EXTINF:-1, tvg-logo="ilCiqga.png" group-title="Canales Chilenos Regionales y Comunales", Canal 21 | Chillan
+http://v3.tustreaming.cl/canal21chillan/live1/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="HE71T1u.png" group-title="Canales Chilenos Regionales y Comunales", CNC | SD | Colchagua
 http://audio.streaminghd.cl/8014/8014/playlist.m3u8
@@ -289,35 +274,23 @@ http://audio.streaminghd.cl/8014/8014/playlist.m3u8
 #EXTINF:-1, tvg-logo="KEWy9Es.png" group-title="Canales Chilenos Regionales y Comunales", MaximaTV | SD | San Bernardo
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="Jhbjyv1.png" group-title="Canales Chilenos Regionales y Comunales", TV4 | Lota [!]
-rtmp://evo.eltelon.com:1935/live/tv4-television
-
 #EXTINF:-1, tvg-logo="LzOTwy6.png" group-title="Canales Chilenos Regionales y Comunales", Ufrovision | HD | Temuco
 http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
 
-#EXTINF:-1, tvg-logo="ZdB2vcL.jpg" group-title="Canales Chilenos Regionales y Comunales", Temuco Television | SD
-http://v1.tustreaming.cl:1935/tmctv/tmctv/playlist.m3u8
-
 #EXTINF:-1, tvg-logo="clOlWBz.png" group-title="Canales Chilenos Regionales y Comunales", Canal 11 | SD | Aysen
-http://v1.streaminglatinoamerica.com:1935/aysentv/aysentv/playlist.m3u8
+http://v3.tustreaming.cl/canal11aysen/live1/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="NC6CJlZ.png" group-title="Canales Chilenos Regionales y Comunales", ATV | SD | Valdivia
 http://evo.eltelon.com:1935/live/atv-valdivia/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="7aGTy1i.png" group-title="Canales Chilenos Regionales y Comunales", Canal 75 | SD | Chiloe
-http://streaminglivehd.com:1935/8038/8038/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="dHJY9tc.png" group-title="Canales Chilenos Regionales y Comunales", RTV Canal 2 | SD | Castro
 http://streaminglivehd.com:1935/8034/8034/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="IVMglX9.png" group-title="Canales Chilenos Regionales y Comunales", Radio Polar TV | SD | Punta Arenas
-rtmp://evo.eltelon.com:1935/live/archi-polar
+http://evo.eltelon.com:1935/live/archi-polar/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="6it6e7v.png" group-title="Canales Chilenos Regionales y Comunales", Canal 5 | HD | Osorno
-http://videostreaming.cl:8080/live/mp4:radiosanjose.mp4/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="IDTH3wK.png" group-title="Canales Chilenos Regionales y Comunales", Canal 5 | SD | Linares
-http://v1.tustreaming.cl:1935/canal5/canal5/playlist.m3u8
+#EXTINF:-1, tvg-logo="IDTH3wK.png" group-title="Canales Chilenos Regionales y Comunales", TV 5 | SD | Linares
+http://v3.tustreaming.cl/tv5/live1/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="MH5QjgZ.png" group-title="Canales Chilenos Regionales y Comunales", Gufo Hits | HD
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/fc13c4a3/playlist.m3u8
@@ -325,31 +298,40 @@ https://wowzaprod4-i.akamaihd.net/hls/live/253920/fc13c4a3/playlist.m3u8
 #EXTINF:-1, tvg-logo="8U5Ww24.png" group-title="Canales Chilenos Regionales y Comunales", Gufo Chile | HD
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/8be6db2d/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="wZZTRSW.png" group-title="Canales Chilenos Regionales y Comunales", Vivo TV | HD | Curico
-http://wow2.cl.digitalproserver.com/tccr/tccrvivo/tccr.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="8U5Ww24.png" group-title="Canales Chilenos Regionales y Comunales", Gufo Rock Latino | HD
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/ce9bebcc_1_540/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="8U5Ww24.png" group-title="Canales Chilenos Regionales y Comunales", Gufo Retro | HD
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/148a6ff0_1_270/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="8U5Ww24.png" group-title="Canales Chilenos Regionales y Comunales", Gufo Indie | HD
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/d3daa538_1_540/chunklist.m3u8
 
 #EXTINF:-1, tvg-logo="G5qKvWl.png" group-title="Canales Chilenos Regionales y Comunales", Arab TV | HD
 http://149.56.17.92:1935/8404/8404/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="zzuHRC6.jpg" group-title="Canales Chilenos Regionales y Comunales", Chilevisual | SD | Antofagasta
-https://586bca6430c72.streamlock.net/chilevisual/smil:chilevisual.smil/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="nPcoT3R.png" group-title="Canales Chilenos Regionales y Comunales",  AM canal | SD | Antofagasta
-https://586bca6430c72.streamlock.net/amtv/amtv/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="FGhqwyz.jpg" group-title="Canales Chilenos Regionales y Comunales", TV Red | SD
-http://69.164.193.177:1935/live/myStream/chunklist_w561342168.m3u8
-
 #EXTINF:-1, tvg-logo="heY1Ppv.png" group-title="Canales de Deportes", -[COLOR red]Canales de Deportes[/COLOR]-
 http://127.0.0.1
 
-#EXTINF:-1, tvg-logo="eb7DJL4.png" group-title="Canales de Deportes", TyC Sports | HD
-https://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master.m3u8
+#EXTINF:-1, tvg-logo="zBW4BMS.jpg" group-title="Canales de Deportes", CableOnda Sports | HD
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="zBW4BMS.jpg" group-title="Canales de Deportes", CableOnda Sports FC | HD
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="hOYnTVm.png" group-title="Canales de Deportes", Olympic Channel | FHD
 https://live.olympicchannel.com/ocs/channel01b/master.m3u8
 
-#EXTINF:-1, tvg-logo="gHplGT7.png" group-title="Canales de Deportes", DeporTV | SD
+#EXTINF:-1, tvg-logo="bpGQUNy.png" group-title="Canales de Deportes", NFL Now | HD
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_4500k.m3u8
+
+#EXTINF:-1, tvg-logo="jPW4CkF.png" group-title="Canales de Deportes", Eurosport 1 | HD
+http://65.254.55.10:4000/live/197/197.m3u8
+
+#EXTINF:-1, tvg-logo="7tmZnMy.png" group-title="Canales de Deportes", Viasat Sport | SD
+http://persik.by/stream/2944/263250/10249.m3u8
+
+#EXTINF:-1, tvg-logo="YyAsaqb.png" group-title="Canales de Deportes", DeporTV | SD
 https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/playlist.m3u8?
 
 #EXTINF:-1, tvg-logo="bNXH4cj.png" group-title="Canales de Deportes", Real Madrid TV | SD
@@ -361,71 +343,47 @@ http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8#1
 #EXTINF:-1, tvg-logo="EpTDouh.png" group-title="Canales de Deportes", Chelsea TV | HD
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
 
-#EXTINF:-1, tvg-logo="X12fXl5.png" group-title="Canales de Deportes", Eurosport | SD
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-
 #EXTINF:-1, tvg-logo="x5jNF2N.png" group-title="Canales de Deportes", MLB | HD
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-
-#EXTINF:-1, tvg-logo="bpGQUNy.png" group-title="Canales de Deportes", NFL Now | HD
-http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
-
-#EXTINF:-1, tvg-logo="jPW4CkF.png" group-title="Canales de Deportes", Eurosport 1 | FHD
-http://95.158.3.34:8888/udp/239.8.0.13:1234
-
-#EXTINF:-1, tvg-logo="mPyMcXK.png" group-title="Canales de Deportes", Eurosport 2 | FHD
-http://95.158.3.34:8888/udp/239.8.0.17:1234
-
-#EXTINF:-1, tvg-logo="7tmZnMy.png" group-title="Canales de Deportes", Viasat Sport | SD
-http://95.158.3.34:8888/udp/239.8.0.12:1234
-
-#EXTINF:-1, tvg-logo="lERd23z.png" group-title="Canales de Deportes", Viasat Golf | SD
-http://95.158.3.34:8888/udp/239.8.0.11:1234
-
-#EXTINF:-1, tvg-logo="GY0d9XI.png" group-title="Canales de Deportes", AyM Sports | HD
-https://vivoplay-i.akamaihd.net/hls/live/255323/canal3/master.m3u8
-
-#EXTINF:-1, tvg-logo="DiyyktA.png" group-title="Canales de Deportes", PX Sports | HD
-https://vivoplay-i.akamaihd.net/hls/live/255324/canal4/master.m3u8
-
-#EXTINF:-1, tvg-logo="wITWgT6.png" group-title="Canales de Deportes", Latin American Sports | HD
-https://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master.m3u8
 
 #EXTINF:-1, tvg-logo="V6IwTd2.jpg" group-title="Canales de Deportes", Mundo Auto Television | HD
 https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
 
 #EXTINF:0, tvg-logo="MA9c6WG.png" group-title="Canales de Deportes", Pac-12 Arizona | FHD
-http://xrxs.net/video/live-p12ariz-4728.m3u8
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
 
 #EXTINF:0,  tvg-logo="MA9c6WG.png" group-title="Canales de Deportes", Pac-12 Bay Area | FHD
-http://xrxs.net/video/live-p12baya-4728.m3u8
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
 
 #EXTINF:0 tvg-logo="MA9c6WG.png" group-title="Canales de Deportes", Pac-12 Los Angeles | FHD
-http://xrxs.net/video/live-p12losa-4728.m3u8
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
 
 #EXTINF:0 tvg-logo="MA9c6WG.png" group-title="Canales de Deportes", Pac-12 Mountain | FHD
-http://xrxs.net/video/live-p12moun-4728.m3u8
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
 
 #EXTINF:0 tvg-logo="MA9c6WG.png" group-title="Canales de Deportes", Pac-12 Oregon | FHD
-http://xrxs.net/video/live-p12oreg-4728.m3u8
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
 
 #EXTINF:0 tvg-logo="MA9c6WG.png" group-title="Canales de Deportes", Pac-12 Washington | FHD
-http://xrxs.net/video/live-p12wash-4728.m3u8
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 
-#EXTINF:0 tvg-logo="MfhYWkK.png" group-title="Canales de Deportes", PX Sports | HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8
+#EXTINF:-1, tvg-logo="VDkXBq6.png" group-title="Canales de Deportes", Rugby TV | SD
+http://fra01-edge01.itdc.ge/rtv/tracks-v1a1/index.m3u8
 
-#EXTINF:0 tvg-logo="dy7waJx.png" group-title="Canales de Deportes", NBA TV | HD
-http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
+#EXTINF:-1, tvg-logo="3Er1etH.jpg" group-title="Canales de Deportes", WAPA 2 | SD
+https://dcunilive14-lh.akamaihd.net/i/dclive_1@176092/master.m3u8
 
-#EXTINF:-1, tvg-logo="zUbcPNT.png" group-title="Canales Dominicanos", CDN Sports Max | HD
-http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
+#EXTINF:-1, tvg-logo="IU8OrKh.png" group-title="Canales de Deportes", NBC Golf | HD
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1, tvg-logo="ICm1kVG.png" group-title="Canales Miscelaneos", Fox Sports News (Australia) | HD
+http://iptv.matthuisman.nz/au/Sydney/tv.fox.sports.news.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1, tvg-logo="u6UOgvd.png" group-title="Canales Argentinos", -[COLOR red]Canales Argentinos[/COLOR]-
 http://127.0.0.1
 
 #EXTINF:-1, tvg-logo="1VAo1sT.png" group-title="Canales Argentinos", America TV | HD
-http://cdn-zc-lsd-3.planisys.net:1935/TV9/smil:tv9live.smil/playlist.m3u8
+http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8?sense=true|Referer=http://vmf.edge-apps.net
 
 #EXTINF:-1, tvg-logo="1VAo1sT.png" group-title="Canales Argentinos", America TV (Alt) | HD
 http://ar.watcha.live/ch3/hi.m3u8|User-agent=iPhone
@@ -435,9 +393,6 @@ http://ar.watcha.live/ch2/hi.m3u8|User-agent=iPhone
 
 #EXTINF:-1, tvg-logo="XQLIPxl.png" group-title="Canales Argentinos", Telefe | HD
 http://ar.watcha.live/ch6/hi.m3u8|User-agent=iPhone
-
-#EXTINF:-1, tvg-logo="XQLIPxl.png" group-title="Canales Argentinos", Telefe Internacional | HD
-https://vivoplay-i.akamaihd.net/hls/live/261555/canal1/master.m3u8
 
 #EXTINF:-1, tvg-logo="qzpwloD.png" group-title="Canales Argentinos", El Trece | HD
 http://ar.watcha.live/ch7/hi.m3u8|User-agent=iPhone
@@ -463,11 +418,8 @@ http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
 #EXTINF:-1, tvg-logo="MXJPXNd.png" group-title="Canales Argentinos", Canal 9 Salta | SD
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="3VGPha0.png" group-title="Canales Argentinos", Canal de la Ciudad | HD
-http://prepublish.f.qaotic.net/b06/ngrp:gcba_video3-100042_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net
-
 #EXTINF:-1, tvg-logo="h7GEgKh.png" group-title="Canales Argentinos", Canal Rural | SD
-rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
+http://prepublish.f.qaotic.net/b04/ngrp:rural_live01-100083_all/Playlist.m3u8?sense=true|Referer=http://vmf.edge-apps.net
 
 #EXTINF:-1, tvg-logo="3jOBKOp.png" group-title="Canales Argentinos", Tec TV | HD
 http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
@@ -476,7 +428,7 @@ http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 #EXTINF:-1, tvg-logo="8nCB06w.png" group-title="Canales Argentinos", Telpin Canal 2 | SD
-rtmp://201.219.100.30:1935/telpintv/ttv.stream_360p
+http://201.219.100.30:1935/telpintv/ttv.stream_360p/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="Yyj2n0e.png" group-title="Canales Argentinos", Canal COOP | HD
 rtmp://190.122.75.19:1936/live playpath=Canal602 swfUrl=http://www.lateledelacoope.com.ar/comunes/player/swfs/SampleMediaPlayback.swf live=1 pageUrl=http://www.lateledelacoope.com.ar/
@@ -490,9 +442,6 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:-1, tvg-logo="rZuWrF8.png" group-title="Canales Argentinos", Power HD | HD
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="6DMPEcI.png" group-title="Canales Argentinos", QM Noticias | SD
-http://qmnoticiashls-lh.akamaihd.net/i/qmnoticiasTEST_hls@324831/master.m3u8
-
 #EXTINF:-1, tvg-logo="qmFK5y8.gif" group-title="Canales Argentinos", Canal Provincial | SD
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
@@ -505,12 +454,6 @@ http://ar.watcha.live/ch12/hi.m3u8|User-agent=iPhone
 #EXTINF:-1, tvg-logo="Ofvncvl.png" group-title="Canales Argentinos", El Nueve | HD
 http://ar.watcha.live/ch5/hi.m3u8|User-agent=iPhone
 
-#EXTINF:-1, tvg-logo="hPxksKd.png" group-title="Canales Argentinos", Tateti | HD
-http://ar.watcha.live/ch16/hi.m3u8|User-agent=iPhone
-
-#EXTINF:-1, tvg-logo="XEnY7aW.png" group-title="Canales Argentinos", TN | HD
-http://prepublish.f.qaotic.net/a04/ngrp:tn_live01-100083_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net
-
 #EXTINF:-1, tvg-logo="oiW6vgk.jpg" group-title="Canales Argentinos", Litus | HD
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 
@@ -521,19 +464,10 @@ http://coninfo.net:1935/13max/live/chunklist.m3u8
 http://127.0.0.1
 
 #EXTINF:-1, tvg-logo="TrEdg4A.png" group-title="Canales Bolivianos", Bolivia TV | SD
-http://api.new.livestream.com/accounts/10468276/events/3485826/live.m3u8
-
-#EXTINF:-1, tvg-logo="4jRmf1g.png" group-title="Canales Bolivianos", Radio Television Popular | SD
-http://fourcast.tv/hls/400.m3u8
-
-#EXTINF:-1, tvg-logo="atVuTv4.png" group-title="Canales Bolivianos", Bolivision | SD
-http://d33xv98pvzk68k.cloudfront.net/bo/smil:bolivision.smil/playlist.m3u8|User-agent=iPhone
+http://api.new.livestream.com/accounts/10468276/events/3485826/live.m3
 
 #EXTINF:-1, tvg-logo="q6vbmtJ.jpg" group-title="Canales Bolivianos", PAT | SD
 http://192.99.46.56:1935/patbolivia/patlapaz/chunklist_w640594033.m3u8
-
-#EXTINF:-1, tvg-logo="AErj8Dz.jpg" group-title="Canales Bolivianos", ATB | SD
-http://stmv1.questreaming.com/atb/atb/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="wvj1Qog.png" group-title="Canales Colombianos", -[COLOR red]Canales Colombianos[/COLOR]-
 http://127.0.0.1
@@ -553,14 +487,11 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 #EXTINF:-1, tvg-logo="JCULveY.png" group-title="Canales Colombianos", Cable Noticias | SD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
 
-#EXTINF:-1, tvg-logo="HZxwCAh.png" group-title="Canales Colombianos", Telecaribe | SD
-http://live10.cdnmedia.tv/telecaribelive/smil:live.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="HZxwCAh.png" group-title="Canales Colombianos", Telecaribe | FHD
+https://w4.cdn.anvato.net/live/manifests/wn8OlVM3UEoOvIGQtw2NOruJRMBAdXQm/telecaribehd/master.m3u8
 
 #EXTINF:-1, tvg-logo="XBRl8NO.png" group-title="Canales Colombianos", Canal TRO | SD
 http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="y4UvhyV.png" group-title="Canales Colombianos", El Tiempo Television | SD
-http://trinity-lh.akamaihd.net/i/ElTiempo01_d@333437/master.m3u8
 
 #EXTINF:-1, tvg-logo="PJFFPAL.png" group-title="Canales Colombianos", Cali TV | SD
 http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
@@ -577,12 +508,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MGEN/tu1_1.m3u8
 #EXTINF:-1, tvg-logo="FUh9igN.png" group-title="Canales Colombianos", RCN | SD
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 
-#EXTINF:-1, tvg-logo="IPgmZe5.jpg" group-title="Canales Colombianos", RCN Novelas | HD
-https://vivoplay-i.akamaihd.net/hls/live/255325/canal5/master.m3u8
-
-#EXTINF:-1, tvg-logo="azSt6un.png" group-title="Canales Colombianos", RCN Nuestra Tele | HD
-https://vivoplay-i.akamaihd.net/hls/live/255327/canal7/master.m3u8
-
 #EXTINF:-1, tvg-logo="Z0jrE36.png" group-title="Canales Colombianos", Teleantioquia | SD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
 
@@ -598,31 +523,38 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
 #EXTINF:-1, tvg-logo="duNUtfE.png" group-title="Canales Colombianos", TV Agro | SD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
 
-#EXTINF:-1, tvg-logo="fP8KzD8.png" group-title="Canales Colombianos", Caracol TV  | SD
+#EXTINF:-1, tvg-logo="fP8KzD8.png" group-title="Canales Colombianos", Caracol TV | SD
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
-
-#EXTINF:-1, tvg-logo="fP8KzD8.png" group-title="Canales Colombianos", Caracol TV (Alt) | HD
-https://vivoplay-i.akamaihd.net/hls/live/253482/canal1/master.m3u8
-
-#EXTINF:-1, tvg-logo="YqSg9Yd.png" group-title="Canales Colombianos", NTN24 | HD
-https://vivoplay-i.akamaihd.net/hls/live/255326/canal6/master.m3u8
 
 #EXTINF:-1, tvg-logo="any5MCR.png" group-title="Canales Colombianos", Canal CNC Medellin | SD
 http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
 
-#EXTINF:-1, tvg-logo="Jt5OFPb.png" group-title="Canales Colombianos", Teleenvigado | SD
-http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
+#EXTINF:-1, tvg-logo="4pibrCO.jpg" group-title="Canales Colombianos", Red+ | FHD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DIA_TV_HD)/index.m3u8
+
+#EXTINF:-1, tvg-logo="yfwARa6.png" group-title="Canales Colombianos", Canal 1 | SD
+http://live10.cdnmedia.tv/canalunolive/smil:live.smil/chunklist.m3u8?encoded=00d72b5df8db95dee0a60
+
+#EXTINF:-1, tvg-logo="YqSg9Yd.png" group-title="Canales Colombianos", NTN24 | HD
+http://api.new.livestream.com/accounts/13988764/events/4133355/live.m3u8
 
 #EXTINF:-1, tvg-logo="vhGXA3D.png" group-title="Canales Colombianos", Trece | SD
-https://streaming.logicideas.media/canal13live/smil:live2.smil/master.m3u8
+https://cdn.logicideas.media/canal13live/smil:live.smil/master.m3u8
 
 #EXTINF:-1, tvg-logo="ojIG13r.png" group-title="Canales Costarricenses", -[COLOR red]Canales Costarricenses[/COLOR]-
+http://127.0.0.1
 
-#EXTINF:-1, tvg-logo="sQmLdZj.png" group-title="Canales Costarricenses", Canal 4 | SD
-http://live-01.viewer.dacast.com/i/dclive_1@311302/master.m3u8
+#EXTINF:-1,tvg-logo="R8Pxx5Y.png" group-title="Canales Costarricenses", Canal 2 Repretel | SD
+http://d2f1bbn9v49he.cloudfront.net/cr/canal2/smil:v2.smil/playlist.m3u8|User-agent=iPhone
 
-#EXTINF:-1, tvg-logo="CJGDrmz.png" group-title="Canales Costarricenses", Super 5 | SD
-http://k3.usastreams.com/superC/_definst_/mp4:superC_2/chunklist.m3u8
+#EXTINF:-1, tvg-logo="R8Pxx5Y.png" group-title="Canales Costarricenses", Canal 4 | SD
+http://d19a4fd3xmc403.cloudfront.net/cr/canal4/smil:v2.smil/playlist.m3u8|User-agent=iPhone
+
+#EXTINF:-1,tvg-logo="R8Pxx5Y.png" group-title="Canales Costarricenses", Canal 6 Repretel | SD
+http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/playlist.m3u8|User-agent=iPhone
+
+#EXTINF:-1,tvg-logo="R8Pxx5Y.png" group-title="Canales Costarricenses", Canal 11 Repretel | SD
+http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/playlist.m3u8|User-agent=iPhone
 
 #EXTINF:-1, tvg-logo="vZnOTq8.png" group-title="Canales Costarricenses", Telered | SD
 http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
@@ -633,9 +565,6 @@ http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
 #EXTINF:-1, tvg-logo="YqW3o4z.png" group-title="Canales Costarricenses", TV Sur | SD
 http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
 
-#EXTINF:-1,tvg-logo="IT308D2.jpg" group-title="Canales Costarricenses", Canal 6 | SD
-http://dcfnah8d3r4n1.cloudfront.net/cr_repretel_canal6_ip/smil:v2.smil/playlist.m3u8
-
 #EXTINF:-1,tvg-logo="OBv7Wb7.png" group-title="Canales Costarricenses", Super Cinco | SD
 http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
 
@@ -645,23 +574,8 @@ http://127.0.0.1
 #EXTINF:-1, tvg-logo="VdeM499.png" group-title="Canales Dominicanos", Canal 25 | SD
 http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="NmNPihL.png" group-title="Canales Dominicanos", Telesistema | SD
-http://mek6.mekstream.com/telesistema/live/chunklist_w743063287.m3u8
-
-#EXTINF:-1, tvg-logo="eaZsn6k.png" group-title="Canales Dominicanos", TV Quisqueya | HD
-https://vivoplay-i.akamaihd.net/hls/live/255341/canal4/master.m3u8
-
-#EXTINF:-1, tvg-logo="yeBCwSI.png" group-title="Canales Dominicanos", Tele Canal 12 | SD
-http://cm.hostlagarto.com:8081/TELE12/tele12HD.myStream/chunks.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Dominicanos", Tele Azul | HD
+#EXTINF:-1, tvg-logo="zHzkGPx.png" group-title="Canales Dominicanos", Tele Azul | HD
 http://cm.hostlagarto.com:8081/teleazul/teleazul.myStream/chunks.m3u8
-
-#EXTINF:-1, tvg-logo="EIOu5EF.png" group-title="Canales Dominicanos", Digital Imperial | SD
-http://cm.hostlagarto.com:8081/tvdigitalimperial/tvdigitalHD.myStream/chunks.m3u8
-
-#EXTINF:-1, tvg-logo="YJb5bSO.jpg" group-title="Canales Dominicanos", WMS | HD
-http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
 
 #EXTINF:-1, tvg-logo="PtZDBg4.png" group-title="Canales Dominicanos", TRA Digital | SD
 http://tra01.streamprolive.com/hls/live.m3u8
@@ -669,14 +583,24 @@ http://tra01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1, tvg-logo="Z5vr92H.jpg" group-title="Canales Dominicanos", CDN | HD
 http://api.new.livestream.com/accounts/15754920/events/4458460/live.m3u8
 
-#EXTINF:-1, tvg-logo="zUbcPNT.png" group-title="Canales Dominicanos", CDN Sports Max | HD
-http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8#1
+
+#EXTINF:-1, tvg-logo="fKJs6BR.png" group-title="Canales Dominicanos", Prodotel | HD
+http://ss6.domint.net:1944/ptv_str/prodotel/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="XHY28qR.png" group-title="Canales Dominicanos", Teleantillas | SD
+http://69.64.69.92:1935/hita-tv-ch02app/studio/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="38CIRaI.png" group-title="Canales Dominicanos", Color Vision Canal 9 | SD
+http://ss6.domint.net:2102/cvh_str/colorvisionhd/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="eWqq06v.png" group-title="Canales Dominicanos", Xtremo Channel Zol | SD
+http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="parRcMm.png" group-title="Canales Dominicanos", Teleuniverso | HD
+http://ss9.domint.net:1942/tu_str/universo/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="HTH3y5t.png" group-title="Canales Ecuatorianos", -[COLOR red]Canales Ecuatorianos[/COLOR]-
 http://127.0.0.1
-
-#EXTINF:-1, tvg-logo="jNGM0eX.png" group-title="Canales Ecuatorianos", Canela TV | SD
-http://servicioamerica.net:1935/8344/8344/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="PlpZzug.png" group-title="Canales Ecuatorianos", Oromar TV | SD
 http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
@@ -687,14 +611,8 @@ http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/chunklist_b899152
 #EXTINF:-1, tvg-logo="Jdgdy8c.png" group-title="Canales Ecuatorianos", Ecuador 7 | SD
 http://api.new.livestream.com/accounts/22196143/events/6576568/live.m3u8
 
-#EXTINF:-1, tvg-logo="g084g5r.png" group-title="Canales Ecuatorianos", Unsion TV | SD
-http://api.new.livestream.com/accounts/8374118/events/2980131/live.m3u8
-
 #EXTINF:-1, tvg-logo="lWWNWaz.png" group-title="Canales Ecuatorianos", TVC | SD
 http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8|User-agent=iPhone&amp;Referer=http://d2dn7ylrd9r3ds.cloudfront.net.cloudfront.net
-
-#EXTINF:-1, tvg-logo="D1O87OH.png" group-title="Canales Ecuatorianos", Television Manabita | SD
-rtmp://184.107.180.130:1935/manabitv/live
 
 #EXTINF:-1, tvg-logo="BMF07Lq.png" group-title="Canales Ecuatorianos", TC | SD
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
@@ -708,17 +626,32 @@ http://192.95.25.203:554/canal1/radiostation.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="8N2lW9C.png" group-title="Canales Españoles", -[COLOR red]Canales Españoles[/COLOR]-
 http://127.0.0.1
 
+#EXTINF:-1, tvg-logo="kgnflq9.png" group-title="Canales Españoles", FDF | HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+
+#EXTINF:-1, tvg-logo="HZmS4m1.png" group-title="Canales Españoles", Boing | HD
+http://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8
+
+#EXTINF:-1, tvg-logo="WmMGr10.png" group-title="Canales Españoles", Divinity | HD
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTINF:-1, tvg-logo="40s4zlU.png" group-title="Canales Españoles", Energy | HD
+http://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
+
+#EXTINF:-1, tvg-logo="vquicgg.png" group-title="Canales Españoles", Bemad | HD 
+http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
+
+#EXTINF:-1, tvg-logo="oBIMNhY.png" group-title="Canales Españoles", Cuatro | HD
+http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
+
+#EXTINF:-1, tvg-logo="jn8hmGr.png" group-title="Canales Españoles", Telecinco | HD
+http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
+
 #EXTINF:-1, tvg-logo="tqIlk01.png" group-title="Canales Españoles", Antena 3 | HD
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 
-#EXTINF:-1, tvg-logo="tqIlk01.png" group-title="Canales Españoles", Antena 3 (Alt) | HD
-https://vivoplay-i.akamaihd.net/hls/live/255335/canal7/master.m3u8
-
 #EXTINF:-1, tvg-logo="2zQi7G3.png" group-title="Canales Españoles", ATRESeries | HD
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-
-#EXTINF:-1, tvg-logo="2zQi7G3.png" group-title="Canales Españoles", ATRESeries (Alt) | HD
-https://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master.m3u8
 
 #EXTINF:-1, tvg-logo="tqIlk01.png" group-title="Canales Españoles", Antena 3 Internacional | SD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
@@ -738,8 +671,14 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:-1, tvg-logo="QAVKJAV.png" group-title="Canales Españoles", RTVE 24h | SD 
 http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
 
-#EXTINF:-1, tvg-logo="NnX9QYL.png" group-title="Canales Españoles", La 1 | SD
-http://hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@439316/master.m3u8
+#EXTINF:-1, tvg-logo="Yn0uJRH.png" group-title="Canales Españoles", La Otra | SD
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+
+#EXTINF:-1, tvg-logo="hHaTdZk.png" group-title="Canales Españoles", La Xarxa | SD
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="hwKVf82.png" group-title="Canales Españoles", Telemadrid | SD
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
 
 #EXTINF:-1, tvg-logo="VlMzpJH.png" group-title="Canales Españoles", Canal 13 España | SD
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
@@ -753,26 +692,11 @@ http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
 #EXTINF:-1, tvg-logo="fJR4kYE.png" group-title="Canales Españoles", Nova | HD
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 
-#EXTINF:-1, tvg-logo="UuN0Ovp.png" group-title="Canales Españoles", Marbella Television | SD
-http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
-
 #EXTINF:-1, tvg-logo="6tlqsqj.png" group-title="Canales Españoles", IB3 | SD
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
 
-#EXTINF:-1, tvg-logo="A8HIM2v.png" group-title="Canales Españoles", Onda Cadiz | SD
-http://adc.hls.flumotion.com/adc/live-hls/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="xZSz9Yt.png" group-title="Canales Españoles", Olcadiz | SD
-http://cloud1.cdnstreamserver.com/olcadiz/livestream1/chunklist.m3u
-
 #EXTINF:-1, tvg-logo="uf0HNfj.png" group-title="Canales Españoles", Andorra TV | SD
 rtmp://194.158.80.31/live/web
-
-#EXTINF:-1, tvg-logo="qZuMVhn.png" group-title="Canales Españoles", El Correo TV | SD
-http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="tMtktw0.jpg" group-title="Canales Españoles", Betis TV | SD
-http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
 
 #EXTINF:-1, tvg-logo="Y50L0C0.png" group-title="Canales Españoles", 8TV | SD
 http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
@@ -782,9 +706,6 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/mast
 
 #EXTINF:-1, tvg-logo="nwZC1ru.png" group-title="Canales Españoles", Aragon | SD
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-
-#EXTINF:-1, tvg-logo="V4ig3Hn.png" group-title="Canales Españoles", 7TV | HD
-http://163.172.15.219:1935/live/vivatv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="obpaWnI.png" group-title="Canales Españoles", Andalucia Turismo | SD
 http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8
@@ -804,9 +725,6 @@ http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 #EXTINF:-1, tvg-logo="oJTCoH8.png" group-title="Canales Españoles", Levante TV | SD
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
 
-#EXTINF:-1, tvg-logo="CKdRDTF.png" group-title="Canales Españoles", Life TV | HD
-http://109.236.91.150:8080/A1:LifeTV/playlist.m3u8
-
 #EXTINF:-1, tvg-logo="PR0DHPE.png" group-title="Canales Españoles", Marca TV | SD
 http://universalhdlive.marca.com/i/dr21_1@100203/master.m3u8
 
@@ -816,17 +734,14 @@ http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
 #EXTINF:-1, tvg-logo="MPhvXrE.png" group-title="Canales Españoles", RTP Asturias | SD
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 
-#EXTINF:-1, tvg-logo="yEPSVHy.png" group-title="Canales Españoles", RTV Marbella | SD
-http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
-
 #EXTINF:-1, tvg-logo="LFJqzx2.png" group-title="Canales Españoles", TV3 | SD
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="jl1Nnd4.png" group-title="Canales Españoles", TV Galicia America | SD
-http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
+http://america-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="jl1Nnd4.png" group-title="Canales Españoles", TV Galicia Europa | SD
-http://media1.crtvg.es:1935/live/tvge/livestream.m3u8
+http://europa-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="7C9rreQ.png" group-title="Canales Españoles", Calle 13 | SD
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
@@ -834,17 +749,11 @@ http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunk
 #EXTINF:-1, tvg-logo="sG60MI9.jpg" group-title="Canales Españoles",  324 Cataluña | SD
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="cO67qPK.jpg" group-title="Canales Españoles", 101 TV | SD
-http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8
-
 #EXTINF:-1, tvg-logo="PUCO3Cf.jpg" group-title="Canales Españoles", Betevé | SD
 http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
 
 #EXTINF:-1, tvg-logo="TXHdLeZ.png" group-title="Canales Españoles", Canal 4 Tenerife | SD
 https://5940924978228.streamlock.net/Directo2/Directo2/master.m3u8
-
-#EXTINF:-1, tvg-logo="99mztxa.png" group-title="Canales Españoles", Canal Costa | HD
-http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="omjtgw0.png" group-title="Canales Españoles", Canaria Sat Television | SD
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
@@ -855,14 +764,29 @@ http://89.140.99.41/hls/1080.m3u8
 #EXTINF:-1, tvg-logo="yU2mypA.jpg" group-title="Canales Españoles", A1 Film | SD
 http://178.132.6.97/A1Film/tracks-v1a1/index.m3u8
 
-#EXTINF:-1, tvg-logo="yU2mypA.jpg" group-title="Canales Españoles", Onda Algeciras | SD
-http://cls.provideo.es/algecirastv/livestream/.m3u8
-
 #EXTINF:-1, tvg-logo="N8UaNoi.jpg" group-title="Canales Españoles", Peque Radio TV | HD
 http://panel.cdnstreamserver.com/live/peque-pequetv.m3u8
 
+#EXTINF:-1, tvg-logo="PrhB3SI.jpg" group-title="Canales Españoles", TeleSafor | HD
+http://video.telesafor.com/hls/video_high.m3u8
+
+#EXTINF:-1, tvg-logo="cIfp05v.png" group-title="Canales Españoles", Castilla La Mancha Media | SD
+http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qpezTWS_dE9-Jbl4-o-A/index-s32.m3u8
+
+#EXTINF:-1, tvg-logo="A8HIM2v.png" group-title="Canales Españoles", Onda Cadiz | SD
+http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
+
+#EXTINF:-1, tvg-logo="V4ig3Hn.png" group-title="Canales Españoles", 7TV | SD
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+
+#EXTINF:-1, tvg-logo="99mztxa.png" group-title="Canales Españoles", Canal Costa | HD
+http://stream.canalcostatv.es:1935/live/IKbtqOuj/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="Dlus1ht.png" group-title="Canales Guatemaltecos", -[COLOR red]Canales Guatemaltecos[/COLOR]-
 http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="PK6t7FP.jpg" group-title="Canales Guatemaltecos", Guatevision | SD
+http://api.new.livestream.com/accounts/25697071/events/7829275/live.m3u8
 
 #EXTINF:-1, tvg-logo="vIFRrCq.png" group-title="Canales Guatemaltecos", Canal Plus Guatemala | SD
 http://streaminglivehd.com:1935/8098/8098/chunklist.m3u8
@@ -870,14 +794,17 @@ http://streaminglivehd.com:1935/8098/8098/chunklist.m3u8
 #EXTINF:-1, tvg-logo="IUuJm7u.png" group-title="Canales Guatemaltecos", Telecosta | SD
 http://arcamediastream.net:1935/8374/8374/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="PK6t7FP.jpg" group-title="Canales Guatemaltecos", Guatevision | SD
-http://162.220.218.101:8081/live/stream1.sdp/playlist.m3u8?www.tecnotv.info
+#EXTINF:-1, tvg-logo="jW0RlVN.png" group-title="Canales Guatemaltecos", Televisiete | SD
+http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="vgOBp0j.png" group-title="Canales Guatemaltecos", TN23 | SD
+http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_23.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="jggBn4N.png" group-title="Canales Hondureños", -[COLOR red]Canales Hondureños[/COLOR]-
 http://127.0.0.1
 
 #EXTINF:-1, tvg-logo="jJ0Qtrm.png" group-title="Canales Hondureños", HCH | SD
-http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8
+https://59ad53d09e453.streamlock.net/hch/hch/master.m3u8
 
 #EXTINF:-1, tvg-logo="4DnJoiR.png" group-title="Canales Hondureños", Todo Deportes | SD
 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/master.m3u8
@@ -885,26 +812,14 @@ http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/master.m3u8
 #EXTINF:-1, tvg-logo="vWyTg5L.png" group-title="Canales Hondureños", Teleceiba Canal 7 | SD
 http://190.11.224.14:8134/liveevent.m3u8
 
-#EXTINF:-1, tvg-logo="qTy0mU7.png" group-title="Canales Hondureños", Televicentro | SD
-http://tvchonduras-lh.akamaihd.net/i/ch_1@325635/master.m3u8
-
 #EXTINF:-1, tvg-logo="VkhYiMT.png" group-title="Canales Hondureños", TV Azteca Honduras | SD
 http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
-
-#EXTINF:-1, tvg-logo="oqt2x3U.jpg" group-title="Canales Hondureños", Hondured 13 | SD
-http://173.236.71.62:1935/hondured/hrtv.sdp/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="RLmLtpl.png" group-title="Canales Mexicanos", -[COLOR red]Canales Mexicanos[/COLOR]-
 http://127.0.0.1
 
-#EXTINF:-1, tvg-logo="w2AW2Hw.jpg" group-title="Canales Mexicanos", Azteca Clic | HD
-https://vivoplay-i.akamaihd.net/hls/live/255339/canal10/master.m3u8
-
-#EXTINF:-1, tvg-logo="B5lqxvC.jpg" group-title="Canales Mexicanos", Azteca Cinema | HD
-https://vivoplay-i.akamaihd.net/hls/live/255328/canal9/master.m3u8
-
-#EXTINF:-1, tvg-logo="n60qPEV.png" group-title="Canales Mexicanos", Azteca Corazón | HD
-https://vivoplay-i.akamaihd.net/hls/live/255340/canal10/master.m3u8
+#EXTINF:-1, tvg-logo="AEE7ckO.png" group-title="Canales Mexicanos", Azteca A+ | SD
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
 
 #EXTINF:-1, tvg-logo="mpiOBrT.png" group-title="Canales Mexicanos", Azteca 13 | SD
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
@@ -914,9 +829,6 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="MBBbzIS.png" group-title="Canales Mexicanos", Canal 10 Chiapas | SD
 http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_es0kdjdz/sd/10000/t/bj1DqoE8O0tNhHgd6BvqXQ/index-s32.m3u8
-
-#EXTINF:-1, tvg-logo="v2MoGMj.png" group-title="Canales Mexicanos", Capital 21 | SD
-http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
 
 #EXTINF:-1, tvg-logo="ISYhR90.png" group-title="Canales Mexicanos", ADN 40 |SD
 http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
@@ -936,41 +848,35 @@ http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 #EXTINF:-1, tvg-logo="VHSjbEj.png" group-title="Canales Mexicanos", Milenio | SD
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", Green TV | HD
-http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/master.m3u8
-
 #EXTINF:-1, tvg-logo="esk2vSh.png" group-title="Canales Mexicanos", SIPSE TV | SD
 http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
 
 #EXTINF:-1, tvg-logo="0a3xne8.png" group-title="Canales Mexicanos", Mexiquense | SD
 http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="unesBrV.png" group-title="Canales Mexicanos", Ultra TV Puebla | HD
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="unesBrV.png" group-title="Canales Mexicanos", Ultra TV Aguacalientes | HD
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+
 #EXTINF:-1, tvg-logo="vJeSFj7.png" group-title="Canales Panameños", -[COLOR red]Canales Panameños[/COLOR]-
 http://127.0.0.1
 
-#EXTINF:-1, tvg-logo="fKTuqqi.png" group-title="Canales Panameños", Nextv | SD
-http://198.1.117.5:1935/live/livestream/master.m3u8
-
 #EXTINF:-1, tvg-logo="qFPfkdC.png" group-title="Canales Panameños", RPC TV | HD
-http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="5fL6hEU.png" group-title="Canales Panameños", Telemetro | HD
-http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-720p/chunks.m3u8
+http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="2Hk2zJQ.png" group-title="Canales Panameños", TVN Panama | HD
 https://cflive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpzo8bu4cDFPiloPhk9oIC/cn/342e43a0bc384c2f8f81652fa15f3949.m3u8?oosm=1
 
-#EXTINF:-1, tvg-logo="68GFMGv.png" group-title="Canales Panameños", Ser TV | SD
-http://162.213.123.181:1935/sertv/live/playlist.m3u8
-
 #EXTINF:-1, tvg-logo="rRmG5kE.jpg" group-title="Canales Panameños", ECO | HD
-http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/eco-live/streamout-720p/playlist.m3u8
+http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="ACu9QTH.png" group-title="Canales Panameños", OYE | HD
 http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="zBW4BMS.jpg" group-title="Canales Panameños", Cable Onda | HD
-http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-720p/chunks.m3u8
 
 #EXTINF:-1, tvg-logo="PXK8Hyx.png" group-title="Canales Paraguayos", -[COLOR red]Canales Paraguayos[/COLOR]-
 http://127.0.0.1
@@ -979,13 +885,10 @@ http://127.0.0.1
 http://201.217.3.212/telefuturoext/telefuturoext/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="6xNFo69.png" group-title="Canales Paraguayos", Unicanal | SD
-http://strm.unicanal.com.py/live/unicanal_src.m3u8
+http://strm.unicanal.com.py/live/unicanal.m3u8
 
 #EXTINF:-1, tvg-logo="gSpMZQk.jpg" group-title="Canales Paraguayos", Intercable | SD
 http://201.217.3.212/TV/intercable/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="AIPoio6.png" group-title="Canales Paraguayos", HEI | SD
-http://54.94.130.159:1935/live/heistream/chunklist.m3u8
 
 #EXTINF:-1, tvg-logo="5ZOJZ66.jpg" group-title="Canales Paraguayos", SNT | SD
 http://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/chunklist_b1016832.m3u8
@@ -999,17 +902,8 @@ http://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/playlist.m3u8|User-agen
 #EXTINF:-1, tvg-logo="S8xJRB4.png" group-title="Canales Peruanos", ATV | SD
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8|User-agent=iPhone
 
-#EXTINF:-1, tvg-logo="14lcXyu.png" group-title="Canales Peruanos", Frecuencia Latina | SD
-https://cialivesec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
-
-#EXTINF:-1, tvg-logo="Dv979fQ.png" group-title="Canales Peruanos", Panamericana TV | FHD
-http://stream-07.dc3.dailymotion.com/35/dm/3/x18w5up/live-4.m3u8
-
-#EXTINF:-1, tvg-logo="Dv979fQ.png" group-title="Canales Peruanos", Panamericana TV (Alt) | SD
+#EXTINF:-1, tvg-logo="Dv979fQ.png" group-title="Canales Peruanos", Panamericana TV | SD
 https://cdnh15.iblups.com/hls/ptv.m3u8
-
-#EXTINF:-1, tvg-logo="rH6CoiR.png" group-title="Canales Peruanos", Next TV | SD
-http://d2ojguqgd62rcn.cloudfront.net/pe/smil:nx.smil/playlist.m3u8|User-agent=iPhone
 
 #EXTINF:-1, tvg-logo="JuJyG1P.png" group-title="Canales Peruanos", Antares TV | SD
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
@@ -1020,14 +914,8 @@ http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-v
 #EXTINF:-1, tvg-logo="VGx1do4.png" group-title="Canales Peruanos", CTC TV | HD
 http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
 
-#EXTINF:-1, tvg-logo="SWySZsE.png" group-title="Canales Peruanos", Latina TV | SD
-http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live.m3u8
-
 #EXTINF:-1, tvg-logo="DTbifnf.png" group-title="Canales Peruanos",  RPP Noticias (Radio con TV) | SD
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live.m3u8
-
-#EXTINF:-1, tvg-logo="GiEHIfc.png" group-title="Canales Peruanos", Sol TV | SD
-http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="z7cueNf.png" group-title="Canales Peruanos", Top Latino | SD
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/master.m3u8
@@ -1036,10 +924,7 @@ http://online.radiodifusion.net:1935/livetv/latinoSD.stream/master.m3u8
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 
 #EXTINF:-1, tvg-logo="oaxSwdU.png" group-title="Canales Peruanos", TV Peru (Alt) | SD
-http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
-
-#EXTINF:-1, tvg-logo="QVgM1FC.png" group-title="Canales Peruanos", Uno TV Tacna | SD
-http://unotv.pe:1935/unotv/myStream/chunklist.m3u8
+http://cdnh4.iblups.com/hls/irtp.m3u8
 
 #EXTINF:-1, tvg-logo="Xwbpj7i.jpg" group-title="Canales Peruanos", Ovacion | SD
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
@@ -1048,7 +933,7 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="tC5ssyS.png" group-title="Canales Peruanos", Ipe TV | SD
-http://cdnh4.iblups.com/hls/irtp.m3u8
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
 
 #EXTINF:-1, tvg-logo="L3PkWwy.png" group-title="Canales Peruanos", BHTV | SD
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
@@ -1065,11 +950,8 @@ http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&reb
 #EXTINF:-1, tvg-logo="Y1xpvJy.png" group-title="Canales Peruanos", Vision TV | HD
 http://stream.tmcreativos.com:1935/visiontv/visiontv.smil/master.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="Canales Peruanos", Turbo Mix Radio TV | SD
+#EXTINF:-1, tvg-logo="Eqpww5i.png" group-title="Canales Peruanos", Turbo Mix Radio TV | SD
 http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
-
-#EXTINF:-1, tvg-logo="kcWV1JC.png" group-title="Canales Peruanos", TV Oriente | SD
-http://204.12.193.98:1935/TvHD/roriente/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="3hXZYdt.png" group-title="Canales Puertorriqueños", -[COLOR red]Canales Puertorriqueños[/COLOR]-
 http://127.0.0.1
@@ -1080,14 +962,8 @@ http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
 #EXTINF:-1, tvg-logo="6mYxKmj.png" group-title="Canales Puertorriqueños", WIPR | SD
 http://api.new.livestream.com/accounts/16550960/events/4589741/live.m3u8
 
-#EXTINF:-1, tvg-logo="LfWhh5r.png" group-title="Canales Puertorriqueños", WAPA | SD
-http://dcunilive30-lh.akamaihd.net/i/dclive_1@535532/index_150_av-p.m3u8?sd=6&rebase=on
-
 #EXTINF:-1, tvg-logo="Q87HBes.png" group-title="Canales Salvadoreños", -[COLOR red]Canales Salvadoreños[/COLOR]-
 http://127.0.0.1
-
-#EXTINF:-1, tvg-logo="SGs71WO.png" group-title="Canales Salvadoreños", Canal 21 | SD
-http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="gKVN8gR.png" group-title="Canales Salvadoreños", TVO | SD
 http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
@@ -1101,23 +977,17 @@ http://127.0.0.1
 #EXTINF:-1, tvg-logo="kcRYRqs.png" group-title="Canales Uruguayos", Tele | HD
 http://api.new.livestream.com/accounts/13567583/events/6415731/live.m3u8
 
+#EXTINF:-1, tvg-logo="skLKmML.png" group-title="Canales Uruguayos", Canal-M | HD
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/master.m3u8
+
 #EXTINF:-1, tvg-logo="2IriHk7.png" group-title="Canales Venezolanos", -[COLOR red]Canales Venezolanos[/COLOR]-
 http://127.0.0.1
 
 #EXTINF:-1, tvg-logo="bbjI8GJ.png" group-title="Canales Venezolanos", TLT | SD
 http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
 
-#EXTINF:-1, tvg-logo="I5v534R.png" group-title="Canales Venezolanos", TV Venezuela | HD
-https://vivoplay-i.akamaihd.net/hls/live/255338/canal10/master.m3u8
-
 #EXTINF:-1, tvg-logo="Hp2xXU0.png" group-title="Canales Venezolanos", Ve Plus | SD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
-
-#EXTINF:-1, tvg-logo="iHUakTB.png" group-title="Canales Venezolanos", VIVOplay | HD
-https://vivoplay-i.akamaihd.net/hls/live/261554/canal1/master.m3u8
-
-#EXTINF:-1, tvg-logo="iHUakTB.png" group-title="Canales Venezolanos", VIVOplay (Alt) | HD
-https://vivoplay-i.akamaihd.net/hls/live/255337/canal9/master.m3u8
 
 #EXTINF:-1, tvg-logo="AOCJ0wq.png" group-title="Canales Venezolanos", TeleSUR | FHD
 https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
@@ -1125,8 +995,53 @@ https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
 #EXTINF:-1, tvg-logo="2RtIwMu.png" group-title="Canales Venezolanos", TVES | SD
 http://198.24.135.42/canal10/canal10/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="OluyROz.png" group-title="Canales Australianos", -[COLOR red]Canales Australianos[/COLOR]-
+http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="aK1nMBV.png" group-title="Canales Australianos", Channel 9 | HD
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200421.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
+#EXTINF:-1, tvg-logo="gyGqKVQ.png" group-title="Canales Australianos", 9Gem | HD
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200427.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
+#EXTINF:-1, tvg-logo="PytFtPP.png" group-title="Canales Australianos", 9Go! | HD
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200428.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
+#EXTINF:-1, tvg-logo="fjEpPs4.png" group-title="Canales Australianos", 9Life! | HD
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200424.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
+#EXTINF:-1, tvg-logo="rONNLTT.png" group-title="Canales Australianos", ABC | SD
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210221.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
+#EXTINF:-1, tvg-logo="ykN8g8a.png" group-title="Canales Australianos", ABC Me | SD
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
+#EXTINF:-1, tvg-logo="tzxsdyN.png" group-title="Canales Australianos", ABC News | SD
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210220.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
+#EXTINF:-1, tvg-logo="Gp8Gmxg.png" group-title="Canales Australianos", ABC 2 / Kids | SD
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
+#EXTINF:-1, tvg-logo="xK1UlS2.png" group-title="Canales Australianos", Food Network | HD
+http://iptv.matthuisman.nz/au/Sydney/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
+#EXTINF:-1, tvg-logo="KiLqy3R.png" group-title="Canales Australianos", NITV | HD
+http://iptv.matthuisman.nz/au/Sydney/tv.320203000305.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
+#EXTINF:-1, tvg-logo="QkyI7Iv.png" group-title="Canales Australianos", SBS | HD
+http://iptv.matthuisman.nz/au/Sydney/tv.320203000301.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
+#EXTINF:-1, tvg-logo="DbWktxo.png" group-title="Canales Australianos", TEN | HD
+http://iptv.matthuisman.nz/au/Sydney/tv.101406020625.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.028compatible%3B+FMSc%2F1.0%29
+
 #EXTINF:-1, tvg-logo="crYk3Ze.png" group-title="Canales Miscelaneos", -[COLOR red]Canales Miscelaneos[/COLOR]-
 http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="rMqZTG2.png" group-title="Canales Miscelaneos", TVNZ 1 | HD
+http://iptv.matthuisman.nz/nz/tv.9.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
+#EXTINF:-1, radio="" tvg-logo="z7sHx3q.png" group-title="Canales Miscelaneos", TVNZ 2 | HD
+http://iptv.matthuisman.nz/nz/tv.10.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1, tvg-logo="oLdVfPU.png group-title="Canales Miscelaneos", +HR=E | SD
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8|X-Forwarded-For=219.88.222.94
@@ -1146,32 +1061,11 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
 #EXTINF:-1, tvg-logo="xZSz9Yt.png" group-title="Canales Miscelaneos", Carina TV | HD
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="AaNHbei.png" group-title="Canales Miscelaneos", CGTN | SD
+https://live.cgtn.com/500/prog_index.m3u8
+
 #EXTINF:-1, tvg-logo="hHhonak.png" group-title="Canales Miscelaneos", CGTN en Español | SD
 https://live.cgtn.com/cctv-e.m3u8
-
-#EXTINF:-1, tvg-logo="Gj1ITHg.png" group-title="Canales Miscelaneos", Canal 4 (Nicaragua) | SD
-http://dcunilive1-lh.akamaihd.net/i/dclive_1@311302/master.m3u8
-
-#EXTINF:-1, tvg-logo="gBMrNNr.png" group-title="Canales Miscelaneos", NASA Public | HD
-https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
-
-#EXTINF:-1, tvg-logo="gBMrNNr.png" group-title="Canales Miscelaneos", NASA Media | HD
-https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
-
-#EXTINF:-1, tvg-logo="gBMrNNr.png" group-title="Canales Miscelaneos", NASA ISS | HD
-http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="rMqZTG2.png" group-title="Canales Miscelaneos", TVNZ 1 | HD
-https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/master.m3u8|X-Forwarded-For=219.88.222.94
-
-#EXTINF:-1, radio="" tvg-logo="z7sHx3q.png" group-title="Canales Miscelaneos", TVNZ 2 | HD
-https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/master.m3u8|X-Forwarded-For=219.88.222.94&User-Agent=iPhone
-
-#EXTINF:-1, tvg-logo="zyBJB8S.png" group-title="Canales Miscelaneos", TVNZ Duke | HD
-https://tvnzioslive01-i.akamaihd.net/hls/live/245926/tvnzhlsingest/duke/playlist.m3u8|X-Forwarded-For=101.100.88.89
-
-#EXTINF:-1, tvg-logo="ZasDS2s.png" group-title="Canales Miscelaneos", Bravo | SD
-https://mworks-i.akamaihd.net/hls/live/251979/AES128/3812193411001/bravo_live_https/master.m3u8|X-Forwarded-For=219.88.222.94
 
 #EXTINF:-1, tvg-logo="pfEkv76.png" group-title="Canales Miscelaneos", BNTV Bosnia | SD
 http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
@@ -1191,29 +1085,8 @@ http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #EXTINF:-1, tvg-logo="eVWQoBl.png" group-title="Canales Miscelaneos", Munchen TV | HD
 http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="tPlTDJn.png" group-title="Canales Miscelaneos", Earth TV | HD
-http://cdn.liveonearth.com//cdnedge//smil:TWL-en.smil//playlist.m3u8
-
 #EXTINF:-1, tvg-logo="aVWTorO.png" group-title="Canales Miscelaneos", VOA | SD
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-
-#EXTINF:-1, tvg-logo="NaLqyke.png" group-title="Canales Miscelaneos", Telemundo | HD
-https://hls-ord-1a.vaughnsoft.net/nyc/live/live_tvhdenvivo14/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="ogtQ0xp.png" group-title="Canales Miscelaneos", Mexico Travel Channel | SD
-http://live10ssl.cdnmedia.tv/mtchlive/mtch.smil/.m3u8
-
-#EXTINF:-1, tvg-logo="D50uEiO.png" group-title="Canales Miscelaneos", TVI (Portugal) | SD
-http://www.iptvsaga.com/play/tv3/0021.m3u8
-
-#EXTINF:-1, tvg-logo="EkFbJzd.png" group-title="Canales Miscelaneos", Show Business | HD
-https://vivoplay-i.akamaihd.net/hls/live/255331/canal2/master.m3u8
-
-#EXTINF:-1, tvg-logo="hw7lJaQ.png" group-title="Canales Miscelaneos", Latin Angels | HD
-https://vivoplay-i.akamaihd.net/hls/live/255330/canal1/master.m3u8
-
-#EXTINF:-1, tvg-logo="SQHkXsN.jpg" group-title="Canales Miscelaneos", Hola TV | HD
-https://vivoplay-i.akamaihd.net/hls/live/255334/canal6/master.m3u8
 
 #EXTINF:-1, tvg-logo="qkn70Hs.jpg" group-title="Canales Miscelaneos", America TeVe | HD
 http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
@@ -1222,16 +1095,64 @@ http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
 http://ss8.domint.net:2106/nct_str/latinos/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="Q6dNJTO.png" group-title="Canales Miscelaneos", Jasmin TV | SD
-rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="vTv1ysB.png" group-title="Canales Miscelaneos", FTV | FHD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="HiSjDAa.png" group-title="Canales Miscelaneos", HD Fashion & Lifestyle | FHD
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 #EXTINF:-1, tvg-logo="FujAXo2.jpg" group-title="Canales Miscelaneos", Chaula TV (Latvia) | HD
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 
-#EXTINF:-1, tvg-logo="V6QyGpn.png" group-title="Canales Miscelaneos", Animal Planet
-http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, tvg-logo="5ox1YFd.png" group-title="Canales de Noticias", CTV News Live Events 1 | HD
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+
+#EXTINF:-1, tvg-logo="5ox1YFd.png" group-title="Canales de Noticias", CTV News Live Events 2 | HD
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
+
+#EXTINF:-1, tvg-logo="5ox1YFd.png" group-title="Canales de Noticias", CTV News Live Events 3 | HD
+http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
+
+#EXTINF:-1, tvg-logo="5ox1YFd.png" group-title="Canales de Noticias", CTV News Live Events 4 | HD
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
+
+#EXTINF:-1, tvg-logo="8cnXJcu.png" group-title="Canales Miscelaneos", Red Bull TV | HD
+http://iptv.matthuisman.nz/nz/tv.redbull.tv.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
+#EXTINF:-1, tvg-logo="8cnXJcu.png" group-title="Canales Miscelaneos", Red Bull TV (Alt) | HD
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+#EXTINF:-1, tvg-logo="GbkLlwk.png" group-title="Eventos", Dubai One| HD
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/master.m3u8
 
 #EXTINF:-1, tvg-logo="zsiBRDv.png" group-title="Canales de Noticias", -[COLOR red]Canales de Noticias[/COLOR]-
 http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="uy91U7w.png" group-title="Canales de Noticias", Sky News | HD
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
+
+#EXTINF:-1, tvg-logo="uy91U7w.png" group-title="Canales de Noticias", Sky News (Alt) | HD
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+
+#EXTINF:-1, tvg-logo="xNlaLSD.png" group-title="Canales de Noticias", MSNBC | FHD
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+
+#EXTINF:-1, tvg-logo="xFSBik0.png" group-title="Canales de Noticias", The Weather Channel | HD
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1, tvg-logo="tMrDZ6b.png" group-title="Canales de Noticias", Weather Nation | HD
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1, tvg-logo="Y7YGiUy.png" group-title="Canales de Noticias", C-SPAN | HD
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+
+#EXTINF:-1, tvg-logo="og0L5fB.png" group-title="Canales de Noticias", C-SPAN 2 | HD
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+
+#EXTINF:-1, tvg-logo="JAqH6Pi.png" group-title="Canales de Noticias", C-SPAN 3 | HD
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
 
 #EXTINF:-1, tvg-logo="KFKktei.png" group-title="Canales de Noticias", RT Español | HD
 https://secure-streams.akamaized.net/rt-esp/index.m3u8
@@ -1254,14 +1175,29 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1, tvg-logo="V6J7g61.png" group-title="Canales de Noticias", BBC World News | SD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 
-#EXTINF:-1, tvg-logo="5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV | HD
-https://live-bloomberg-us-east.global.ssl.fastly.net/btv/desktop/politics.m3u8
+#EXTINF:-1, tvg-logo="5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV US | HD
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
 #EXTINF:-1, tvg-logo="5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV Europe | HD
-https://live-bloomberg-eu-west.global.ssl.fastly.net/btv/desktop/live.m3u8
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 
-##EXTINF:-1, tvg-logo="5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV Europe (Alt.) | HD
-#http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1, tvg-logo="5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV Asia | HD
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
+
+#EXTINF:-1, tvg-logo="5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV Australia | HD
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+
+#EXTINF:-1, tvg-logo="5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV Politics Live Event | HD
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_politics.m3u8
+
+#EXTINF:-1, tvg-logo="5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV US Live Event | HD
+https://liveproduseast.akamaized.net/btv/desktop/us_event.m3u8
+
+#EXTINF:-1, tvg-logo="5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV EMEA Live Event | HD
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
+
+#EXTINF:-1, tvg-logo="5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV Asia Live Event | HD
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
 
 #EXTINF:-1, tvg-logo="hov1cKZ.png" group-title="Canales de Noticias", TV5Monde Amerique Latine | SD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
@@ -1269,17 +1205,20 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
 #EXTINF:-1, tvg-logo="wRYAQ24.png" group-title="Canales de Noticias", NHK World | HD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
 
+#EXTINF:-1, tvg-logo="wRYAQ24.png" group-title="Canales de Noticias", NHK World (Alt)| HD
+http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
+
 #EXTINF:-1, tvg-logo="Q2WEX34.png" group-title="Canales de Noticias", Deutsche Welle Latino | SD
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
-#EXTINF:-1, tvg-logo="fB68JWo.png" group-title="Canales de Noticias", Aljazeera | SD
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:-1, tvg-logo="Q2WEX34.png" group-title="Canales de Noticias", Deutsche Welle | SD
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
-#EXTINF:-1, tvg-logo="u7mJGF3.png" group-title="Canales de Noticias", ABC News | SD
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1, tvg-logo="fB68JWo.png" group-title="Canales de Noticias", Aljazeera | FHD
+http://iptv.matthuisman.nz/nz/tv.46.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
-#EXTINF:-1, tvg-logo="tGaD8lo.png" group-title="Canales de Noticias", Efekto TV | HD
-http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:-1, tvg-logo="u7mJGF3.png" group-title="Canales de Noticias", ABC News | HD
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 
 #EXTINF:-1, tvg-logo="gDOEH0A.png" group-title="Canales de Noticias", France 24 | HD
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
@@ -1288,7 +1227,7 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="PCU1h8M.png" group-title="Canales de Noticias", Channel NewsAsia | SD
-http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+https://tglcnash-i.akamaihd.net/hls/live/566559/pcweb/04.m3u8
 
 #EXTINF:-1, tvg-logo="f41IHoB.png" group-title="Canales de Noticias", TVN Señal de Pruebas | HD
 http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
@@ -1299,17 +1238,20 @@ http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1, tvg-logo="e8a18XH.png" group-title="Canales de Noticias", London Live | HD
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 
-#EXTINF:-1, tvg-logo="QwLTsRf.png" group-title="Canales de Noticias", Sky News | HD
-http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
-
 #EXTINF:-1, tvg-logo="zZtoqgX.png" group-title="Canales de Noticias", CBS News | HD
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:-1, tvg-logo="7AboTKQ.jpg" group-title="Canales de Noticias", CB24 | HD
-https://vivoplay-i.akamaihd.net/hls/live/255332/canal3/master.m3u8
+#EXTINF:-1, tvg-logo="SeVaece.jpg" group-title="Canales de Noticias", RAI News 24 | SD
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8?laope
 
 #EXTINF:-1, tvg-logo="uwee0UJ.png" group-title="Canales de Musica", -[COLOR red]Canales de Musica[/COLOR]-
 http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="eXUioZ0.png" group-title="Canales de Musica", MTV Live | SD
+http://wowza2.mysoltv.com:1992/Latino_MTV_LIVE/index.m3u8
+
+#EXTINF:-1, tvg-logo="0cK7x0o.png" group-title="Canales de Musica", MTV Japan | SD
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs31.stream/playlist.m3u8#laope
 
 #EXTINF:-1, tvg-logo="MCGNAMK.png" group-title="Canales de Musica", Music Choice Alternative | HD
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
@@ -1392,9 +1334,6 @@ http://fms.105.net:1935/live/105Test1/playlist.m3u8
 #EXTINF:-1, tvg-logo="jQcWYGC.png" group-title="Canales de Musica", Otto FM | HD
 http://live.youiptv.ch:1935/8FM/8FM/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="Canales de Musica", Indie Lives radio | SD
-http://ec.playmedia.fr/indies-live/live/playlist.m3u8
-
 #EXTINF:-1, tvg-logo="IpsnB4H.png" group-title="Canales de Musica", Vibee | SD
 http://46.101.21.42:8081/live/live2/playlist.m3u8
 
@@ -1404,9 +1343,6 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 #EXTINF:-1, tvg-logo="as4ML4s.png" group-title="Canales de Musica", Heart TV | HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
-#EXTINF:-1, tvg-logo="9nUKiZh.png" group-title="Canales de Musica", City Radio TV | SD
-http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
-
 #EXTINF:-1, tvg-logo="5EbmHYH.png" group-title="Canales de Musica", Capital TV | SD
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
@@ -1414,7 +1350,7 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 http://server5.stweb.tv/radioone/live/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="jE6NEKA.png" group-title="Canales de Musica", Hit TV | SD
-http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 
 #EXTINF:-1, tvg-logo="xZSz9Yt.png" group-title="Canales de Musica", Retro TV | SD
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
@@ -1430,9 +1366,6 @@ http://wow01.105.net/live/virgin1/.m3u8
 
 #EXTINF:-1, tvg-logo="HwCs0mH.png" group-title="Canales de Musica", Melody Channel | SD
 rtsp://186.155.200.118:1935/live/MelodyChannel
-
-#EXTINF:-1, tvg-logo="PA4fG4f.png" group-title="Canales de Musica", Hip Hop TV | SD
-https://stream.smcdn.pl/hiphoptv-p/stream1/chunklist.m3u8
 
 #EXTINF:-1, tvg-logo="EyU9Bcu.png" group-title="Canales de Musica", Rock Nacional TV | SD
 http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
@@ -1454,9 +1387,6 @@ https://stream.smcdn.pl/vox2-p/stream1/chunklist.m3u8
 
 #EXTINF:-1, tvg-logo="VfsiDI8.png" group-title="Canales de Musica", Music Vox TV Old School | HD
 https://stream.smcdn.pl/vox-t/vox_720p/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="rYAqLdE.png" group-title="Canales de Musica", Eska Rock | HD
-https://stream.smcdn.pl/eska_rock-t/eska_rock_720p/chunklist.m3u8
 
 #EXTINF:-1, tvg-logo="B53hBGY.png" group-title="Canales de Musica", Planeta HD | HD
 http://84.43.207.130/planetahd/planetahd.m3u8
@@ -1485,9 +1415,6 @@ http://cm.hostlagarto.com:8081/tumusicahd/tumusicaHD.myStream/playlist.m3u8
 #EXTINF:-1, tvg-logo="JKWi1oD.jpg" group-title="Canales de Musica", Latin Music TV (Dominicano) | SD
 http://ss9.domint.net:2186/lmt_str/latinmusic/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="LOsciEF.png" group-title="Canales de Musica", Montecristi Digital | SD
-http://cm.hostlagarto.com:8081/Montecristidigital8/DigitalHD.myStream/chunks.m3u8
-
 #EXTINF:-1, tvg-logo="3ubGXiu.png" group-title="Canales de Musica", Radio Linea N1 | HD
 http://flash2.streaming.xdevel.com:80/radiolineatv/radiolineatv/chunklist.m3u8
 
@@ -1499,6 +1426,42 @@ http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/right
 
 #EXTINF:-1, tvg-logo="wpzgjWt.png" group-title="Canales de Musica", Radio Sanborja (Peru) | SD
 https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="VIpafvM.png" group-title="Canales de Musica", California Music Channel | HD
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+
+#EXTINF:-1, tvg-logo="WFJZTkU.png" group-title="Canales de Musica", Classic Arts Showcase | SD
+http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="OXgDjwN.png" group-title="Canales de Musica", Radio Bruno (Italia) | SD
+http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="P2zYCxA.jpg" group-title="Canales de Musica", Colosal TV (Costa Rica) | SD
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="xsspfDW.png" group-title="Canales de Musica", Radio Contact Feel Good | HD
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+
+#EXTINF:-1, tvg-logo="QECto3J.png" group-title="Canales de Musica", Klipkar TV | SD
+http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="63s1k43.png" group-title="Canales de Musica", Portal FoxMix | HD
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="MH5QjgZ.png" group-title="Canales de Musica", Gufo Hits | HD
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/fc13c4a3/playlist.m3u8?laope
+
+#EXTINF:-1, tvg-logo="8U5Ww24.png" group-title="Canales de Musica", Gufo Chile | HD
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/8be6db2d/playlist.m3u8?laope
+
+#EXTINF:-1, tvg-logo="8U5Ww24.png" group-title="Canales de Musica", Gufo Rock Latino | HD
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/ce9bebcc_1_540/chunklist.m3u8?laope
+
+#EXTINF:-1, tvg-logo="8U5Ww24.png" group-title="Canales de Musica", Gufo Retro | HD
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/148a6ff0_1_270/chunklist.m3u8?laope
+
+#EXTINF:-1, tvg-logo="8U5Ww24.png" group-title="Canales de Musica", Gufo Indie | HD
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/d3daa538_1_540/chunklist.m3u8?laope
 
 #EXTINF:-1, tvg-logo="opUQdHx.jpg" group-title="Canales Italianos", -[COLOR red]Canales Italianos[/COLOR]-
 http://127.0.0.1
@@ -1518,347 +1481,101 @@ http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
 #EXTINF:-1, tvg-logo="KTduiMH.png" group-title="Canales Italianos", RAI Premium | SD
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 
-#EXTINF:-1, tvg-logo="Nu88VEo.png" group-title="Canales Italianos", RAI 5 | SD
-http://stream12.rai.it/live/rai5.smil/master.m3u8?laope
+#EXTINF:-1, tvg-logo="3F76vRp.png" group-title="Canales Italianos", RAI Movie | SD
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:-1, tvg-logo="CcKefme.png" group-title="Canales Italianos", RAI YoYo | SD
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+
+#EXTINF:-1, tvg-logo="AxcCCPA.png" group-title="Canales Italianos", RAI Gulp | SD
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+
+#EXTINF:-1, tvg-logo="Ngn47Ab.png" group-title="Canales Italianos", Rete 4 | SD
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH03HA)/Stream(03)/index.m3u8
+
+#EXTINF:-1, tvg-logo="Ngn47Ab.png" group-title="Canales Italianos", Rete 4 (Alt) | HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH03HA)/Stream(04)/index.m3u8
+
+#EXTINF:-1, tvg-logo="d0TorJj.png" group-title="Canales Italianos", Canale 5 | SD
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(03)/index.m3u8
+
+#EXTINF:-1, tvg-logo="d0TorJj.png" group-title="Canales Italianos", Canale 5 (Alt) | HD
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(04)/index.m3u8
+
+#EXTINF:-1, tvg-logo="bunk5Ro.png" group-title="Canales Italianos", Italia 1 | SD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
+
+#EXTINF:-1, tvg-logo="bunk5Ro.png" group-title="Canales Italianos", Italia 1 (Alt) | HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(04)/index.m3u8
+
+#EXTINF:-1, tvg-logo="QernlZG.png" group-title="Canales Italianos", Italia 2 | SD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH05HA)/Stream(03)/index.m3u8
+
+#EXTINF:-1, tvg-logo="QernlZG.png" group-title="Canales Italianos", Italia 2 (Alt) | HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH05HA)/Stream(04)/index.m3u8
+
+#EXTINF:-1, tvg-logo="G0kSVA2.png" group-title="Canales Italianos", La5 | SD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH04HA)/Stream(03)/index.m3u8
+
+#EXTINF:-1, tvg-logo="G0kSVA2.png" group-title="Canales Italianos", La5 (Alt) | HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH04HA)/Stream(04)/index.m3u8
+
+#EXTINF:-1, tvg-logo="NN4PFYj.png" group-title="Canales Italianos", Top Crime | SD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH07HA)/Stream(03)/index.m3u8
+
+#EXTINF:-1, tvg-logo="NN4PFYj.png" group-title="Canales Italianos", Top Crime (Alt) | HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH07HA)/Stream(04)/index.m3u8
+
+#EXTINF:-1, tvg-logo="qX8nVvB.png" group-title="Canales Italianos", Iris | SD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(03)/index.m3u8
+
+#EXTINF:-1, tvg-logo="qX8nVvB.png" group-title="Canales Italianos", Iris (Alt) | HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(04)/index.m3u8
+
+#EXTINF:-1, tvg-logo="0udZdoP.png" group-title="Canales Italianos", Mediaset Extra | SD
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH09HA)/Stream(03)/index.m3u8
+
+#EXTINF:-1, tvg-logo="0udZdoP.png" group-title="Canales Italianos", Mediaset Extra (Alt) | HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH09HA)/Stream(04)/index.m3u8
 
 #EXTINF:-1, tvg-logo="xe2uQkH.png" group-title="Canales Japoneses", -[COLOR red]Canales Japoneses[/COLOR]-
 http://127.0.0.1
 
-#EXTINF:-1, tvg-logo="OzYmsN8.png" group-title="Canales Japoneses", NHK World | HD
-http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
-
-#EXTINF:-1, tvg-logo="GTaeuMc.png" group-title="Canales Japoneses", NHK G | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/gd01.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="Zku2CvJ.png" group-title="Canales Japoneses", NHK E | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/gd02.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="B6vXfKu.png" group-title="Canales Japoneses", Nippon TV | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/gd03.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="B6vXfKu.png" group-title="Canales Japoneses", TBS | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/gd04.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="Gr1f4OL.png" group-title="Canales Japoneses", Fuji TV | HD
-http://cdn-usa1-streaming.ani-box.com:1935/live/gd05.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="Ib8ueoh.png" group-title="Canales Japoneses", TV Asahi | HD
-http://cdn-usa1-streaming.ani-box.com:1935/live/gd06.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="62lb1ep.png" group-title="Canales Japoneses", TV Tokyo | HD
-http://cdn-usa1-streaming.ani-box.com:1935/live/gd07.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="FLZIzbx.png" group-title="Canales Japoneses", Tokyo MX | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/gd08.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="pngctcb.png" group-title="Canales Japoneses", NHK-BS1 | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs01.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="jHc2cep.png" group-title="Canales Japoneses", BS-NTV | HD
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs02.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="OhpZEzd.png" group-title="Canales Japoneses", BS-Asahi | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs03.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="nfrK8aH.png" group-title="Canales Japoneses", BS-TBS | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs04.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="iyJkLIA.png" group-title="Canales Japoneses", BS-Fuji | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs05.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="B6vXfKu.png" group-title="Canales Japoneses", BS Japan | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs06.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="Ne7HzhZ.png" group-title="Canales Japoneses", WOWOW Prime | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs07.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="n3sfZ6L.png" group-title="Canales Japoneses", WOWOW Live | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs08.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="nl4zIKH.png" group-title="Canales Japoneses", WOWOW Cinema | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs09.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="Rro10Qk.png" group-title="Canales Japoneses", Star Channel 1 | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs10.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="Rro10Qk.png" group-title="Canales Japoneses", Star Channel 2 | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs11.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="Rro10Qk.png" group-title="Canales Japoneses", Star Channel 3 | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs12.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="B6vXfKu.png" group-title="Canales Japoneses", TwellV | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs13.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="fX5utmi.png" group-title="Canales Japoneses", NHK-BS Premium | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs14.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="2LRtoP9.png" group-title="Canales Japoneses", Golf Network | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs03.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="AJujpnf.png" group-title="Canales Japoneses", J-Sports 1 | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs05.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="AJujpnf.png" group-title="Canales Japoneses", J-Sports 2 | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs06.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="AJujpnf.png" group-title="Canales Japoneses", J-Sports 3 | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs07.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="AJujpnf.png" group-title="Canales Japoneses", J-Sports 4 | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs09.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="B6vXfKu.png" group-title="Canales Japoneses", Samurai TV | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="bQSvHH9.png" group-title="Canales Japoneses", Movie Plus | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs10.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="B6vXfKu.png" group-title="Canales Japoneses", Eisei Gekijo | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs11.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="8EInTzT.png" group-title="Canales Japoneses", Kids Station | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs12.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="hYfQC6m.png" group-title="Canales Japoneses", Discovery Channel | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs13.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="ASdgt3G.png" group-title="Canales Japoneses", History Channel | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs14.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="B6vXfKu.png" group-title="Canales Japoneses", J Music | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs17.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="B6vXfKu.png" group-title="Canales Japoneses", Satellite Theatre | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs18.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="B6vXfKu.png" group-title="Canales Japoneses", Nihon Eiga TV | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs19.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="mQte1sl.png" group-title="Canales Japoneses", Disney Channel | SD
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs20.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="QLegzCi.png" group-title="Peliculas y Series", -[COLOR red]Peliculas y Series[/COLOR]-
-http://127.0.0.1
-
-#EXTINF:-1, tvg-logo="5cmmkbK.png" group-title="Peliculas y Series", Mega Movies | HD
-https://hls-ord-1a.vaughnsoft.net/nyc/live/live_mega_movieshd/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="5cmmkbK.png" group-title="Peliculas y Series", Cinescape | SD
-https://hls-ord-1a.vaughnsoft.net/nyc/live/live_cinescape/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="5cmmkbK.png" group-title="Peliculas y Series", Katy | SD
-https://hls-ord-1a.vaughnsoft.net/ams/live/live_katyhd/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="5cmmkbK.png" group-title="Peliculas y Series", Cine Star | SD
-https://hls-ord-1a.vaughnsoft.net/nyc/live/live_cine_star/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="5cmmkbK.png" group-title="Peliculas y Series", LCreme | HD
-https://hls-ord-1a.vaughnsoft.net/nyc/live/live_lcreme_staff/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="5cmmkbK.png" group-title="Peliculas y Series", Mega Extremo | SD
-https://hls-ord-1a.vaughnsoft.net/nyc/live/live_mega_extremo/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="5cmmkbK.png" group-title="Peliculas y Series", Morena Channel | SD
-https://hls-ord-1a.vaughnsoft.net/nyc/live/live_morena_channels12/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="5cmmkbK.png" group-title="Peliculas y Series", Zona Films Terror | SD
-https://hls-ord-1a.vaughnsoft.net/ams/live/live_zonafilmsterror/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="5cmmkbK.png" group-title="Peliculas y Series", Broad Movies | HD
-https://hls-ord-1a.vaughnsoft.net/nyc/live/live_broadmovieshd/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="5cmmkbK.png" group-title="Peliculas y Series", Cine Calidad | SD
-https://hls-ord-1a.vaughnsoft.net/nyc/live/live_cine_calidad/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="5cmmkbK.png" group-title="Peliculas y Series", Vitato TV | HD
-https://hls-ord-1a.vaughnsoft.net/ams/live/live_vitatotv/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="5cmmkbK.png" group-title="Peliculas y Series", Chinomex 2 | SD
-https://hls-ord-1a.vaughnsoft.net/ams/live/live_chinomex2/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="5cmmkbK.png" group-title="Peliculas y Series", Variedad TV | SD
-https://hls-ord-1a.vaughnsoft.net/nyc/live/live_variedtv/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="5cmmkbK.png" group-title="Peliculas y Series", Variedad TV 2 | SD
-https://hls-ord-1a.vaughnsoft.net/nyc/live/live_variedtv2/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="5cmmkbK.png" group-title="Peliculas y Series", Dr House 24/7 | SD
-https://hls-ord-1a.vaughnsoft.net/nyc/live/live_dr_daniel_jackson/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="5cmmkbK.png" group-title="Peliculas y Series", Vitato Series | SD
-https://hls-ord-1a.vaughnsoft.net/ams/live/live_vitatoseries/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="5cmmkbK.png" group-title="Peliculas y Series", Anime 1 | SD
-https://hls-ord-1a.vaughnsoft.net/nyc/live/live_seriesan342/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="5cmmkbK.png" group-title="Peliculas y Series", Anime 3 | SD
-https://hls-ord-1a.vaughnsoft.net/nyc/live/live_ajap07/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="5cmmkbK.png" group-title="Peliculas y Series", Dragon Ball Z 24/7 | SD
-https://hls-ord-1a.vaughnsoft.net/nyc/live/live_dragonballhd/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="5cmmkbK.png" group-title="Peliculas y Series", Chespirito 1 | SD
-https://hls-ord-1a.vaughnsoft.net/nyc/live/live_vitatochespirito/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="5cmmkbK.png" group-title="Peliculas y Series", Chespirito 2 | SD
-https://hls-ord-1a.vaughnsoft.net/nyc/live/live_chespirito_mania/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="fKByJrs.png" group-title="Unidad Operativa de Control de Transito", -[COLOR red]UOCT[/COLOR]-
-http://127.0.0.1
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", -[COLOR red]UOCT: Zona Oriente[/COLOR]-
-http://127.0.0.1
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Isidora Goyenechea-Vitacura
-http://200.75.19.171/uoct/55/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Tobalaba-Apoquindo
-http://200.75.19.171/uoct/30/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Providencia-Suecia
-http://200.75.19.171/uoct/35/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Providencia-Salvador
-http://200.75.19.171/uoct/19/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Macul-Grecia
-http://200.75.19.171/uoct/33/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Las Condes-La Dehesa
-http://200.75.19.171/uoct/31/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Bellavista-Arzobispo
-http://200.75.19.171/uoct/66/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Apoquindo-Las Condes
-http://200.75.19.171/uoct/29/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Vespucio-Camino del Inca
-http://200.75.19.171/uoct/54/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Vespucio-Presidente Riesco
-http://200.75.19.171/uoct/53/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Vespucio-Vitacura
-http://200.75.19.171/uoct/49/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Rotonda Perez Zujovic
-http://200.75.19.171/uoct/47/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Apoquindo-Manquehue
-http://200.75.19.171/uoct/43/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Andres Bello-Nueva Tajamar
-http://200.75.19.171/uoct/42/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Diagonal Oriente con Vespucio
-http://200.75.19.171/uoct/10/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Apoquindo – Camino el Alba
-http://200.75.19.171/uoct/13/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", El Cerro con Los Conquistadores
-http://200.75.19.171/uoct/2/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", -[COLOR red]UOCT: Zona Poniente[/COLOR]-
-http://127.0.0.1
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", General Velazquez-Arica 
-http://200.75.19.171/uoct/21/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Alameda-Concon
-http://200.75.19.171/uoct/28/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Pajaritos-5 de abril
-http://200.75.19.171/uoct/51/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Alameda-Matucana
-http://200.75.19.171/uoct/38/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", General Bonilla con Teniente Cruz
-http://200.75.19.171/uoct/55/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", San Pablo con Neptuno
-http://200.75.19.171/uoct/3/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", -[COLOR red]UOCT: Zona Centro[/COLOR]-
-http://127.0.0.1
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Viel-Matta
-http://200.75.19.171/uoct/34/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Manuel Rodriguez-Toesca
-http://200.75.19.171/uoct/32/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Lira- Diagonal Paraguay
-http://200.75.19.171/uoct/26/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Alameda-Brasil
-http://200.75.19.171/uoct/18/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Agustinas – San Martín
-http://200.75.19.171/uoct/27/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Alameda – Santa Rosa
-http://200.75.19.171/uoct/37/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Plaza Italia
-http://200.75.19.171/uoct/36/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Teatinos con Compañia
-http://200.75.19.171/uoct/11/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Alameda con Manuel Rodriquez
-http://200.75.19.171/uoct/12/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Vicuña Mackenna con Santa Isabel
-http://200.75.19.171/uoct/7/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Alameda con Nataniel Cox
-http://200.75.19.171/uoct/17/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", San Antonio con Agustinas
-http://200.75.19.171/uoct/14/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", -[COLOR red]UOCT: Zona Norte[/COLOR]-
-http://127.0.0.1
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Alameda-Cumming
-http://200.75.19.171/uoct/16/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Ruta 5-Vespucio
-http://200.75.19.171/uoct/52/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Vespucio-Pedro Fontova
-http://200.75.19.171/uoct/50/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Vespucio-Recoleta
-http://200.75.19.171/uoct/48/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", -[COLOR red]UOCT: Zona Sur[/COLOR]-
-http://127.0.0.1
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Departamental-Pedro Aguirre Cerda
-http://200.75.19.171/uoct/46/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Departamental-5 sur
-http://200.75.19.171/uoct/45/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Vespucio-Vicuña Mackenna
-http://200.75.19.171/uoct/41/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Vespucio-Gran Avenida
-http://200.75.19.171/uoct/40/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Vespucio-Santa Rosa
-http://200.75.19.171/uoct/39/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Vicuña Mackenna con Departamental
-http://200.75.19.171/uoct/8/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Isabel Riquelme con Bascuñán Guerrero
-http://200.75.19.171/uoct/6/playlist.m3u8
+#EXTINF:-1, tvg-logo="ttK0jlV.jpg" group-title="Canales Japoneses", TBS News Bird | SD
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs15.stream/playlist.m3u8
+ 
+#EXTINF:-1, tvg-logo="B6vXfKu.png" group-title="Canales Japoneses", Sky A Sports + | SD
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs23.stream/playlist.m3u8
+ 
+#EXTINF:-1, tvg-logo="EHhCHmQ.png" group-title="Canales Japoneses", Fuji TV One | SD
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs24.stream/playlist.m3u8
+ 
+#EXTINF:-1, tvg-logo="4fNvW9h.png" group-title="Canales Japoneses", NTV G+ | SD
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs26.stream/playlist.m3u8
+ 
+#EXTINF:-1, tvg-logo="ttK0jlV.jpg" group-title="Canales Japoneses", TBS 1 | SD
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs28.stream/playlist.m3u8
+ 
+#EXTINF:-1, tvg-logo="4fNvW9h.png" group-title="Canales Japoneses", NTV Plus | SD
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs29.stream/playlist.m3u8
+ 
+#EXTINF:-1, tvg-logo="0sjqtpI.png" group-title="Canales Japoneses", Space Shower TV | SD
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs30.stream/playlist.m3u8
+ 
+#EXTINF:-1, tvg-logo="0cK7x0o.png" group-title="Canales Japoneses", MTV Japan | SD
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs31.stream/playlist.m3u8
+ 
+#EXTINF:-1, tvg-logo="EHhCHmQ.png" group-title="Canales Japoneses", Fuji TV Next | SD
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs33.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="edbJeuy.jpg" group-title="Canales Japoneses", Japanet Channel DX | SD
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+
+#EXTINF:-1 tvg-logo="1uAyVuO.png" group-title="Canales Japoneses", NTV News 24 | SD
+http://www.news24.jp/livestream/index.m3u8
+
+#EXTINF:-1 tvg-logo="fFgKYAw.png" group-title="Canales Japoneses", Shop Channel | HD
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
 #EXTINF:-1, tvg-logo="" group-title="Leeme",- [COLOR cyan]http://lao.pe/tv[/COLOR] -
 http://127.0.0.1
@@ -1869,14 +1586,11 @@ http://127.0.0.1
 #EXTINF:-1, radio="true" tvg-logo="SUh388e.jpg" group-title="Radios Chilenas", Imagina (88.1 FM)
 http://14073.live.streamtheworld.com/IMAGINAAAC.aac
 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Maxima FM (88.1 FM Antofagasta)
-http://cast3.serverhost.cl:8764/;
-
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Canal 95 (88.1 FM Antofagasta)
 http://sonando.us.digitalproserver.com/canal95_aac
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Nostalgica (88.1 FM Copiapo)
-http://comunicacionespuntocreativo.cl:8000/nostalgica
+http://unlimited1-cl.digitalproserver.com/nostalgica/aac/icecast.audio
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Bio Bio Temuco (88.1 FM Temuco)
 http://ice.dallas.digitalproserver.com/biotemu
@@ -1885,7 +1599,7 @@ http://ice.dallas.digitalproserver.com/biotemu
 http://19793.live.streamtheworld.com/CONCIERTOAAC.aac
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Amiga (88.5 FM Vallenar)
-http://162.210.39.218:24662/;
+http://184.154.173.147:8021/stream
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", FM OK (89.3 FM Antofagasta)
 http://streaming.fmokey.cl:8000/FmOkAT.mp3
@@ -1894,22 +1608,22 @@ http://streaming.fmokey.cl:8000/FmOkAT.mp3
 http://19793.live.streamtheworld.com/FUTUROAAC.aac
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Nuevo Mundo (88.9 FM Ovalle)
-http://s3.medionline.cl:7960/;
+http://190.82.105.90:8012/stream/1/
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", FM Mas (89.1 Arica)
 http://cast.radioservicios.cl:8026/fmmas
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Diferencia (FM 89.3 Salamanca)
-http://epsilon.clickhost.cl:9607/diferencia.aac.m3u
+http://latitudmedia.cl:8930/stream/1/
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Duna (89.7 FM)
 http://tunein.digitalproserver.com/dunabb.aac
 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Nuble (89.7 FM Chillan)
-http://198.50.154.235:7684
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Ñuble (89.7 FM Chillan)
+http://173.233.72.82:9358/;
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Carnaval (89.9 FM Viña del Mar)
-http://radio.cl.digitalproserver.com:443/carnaval/carnaval_ovalle/carnaval_ovalle.stream/elpi.co.m3u8
+http://sonando.us.digitalproserver.com/carnaval_vinadelmar.aac
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Colo-colo (90.1 FM)
 http://186.103.213.249:9988
@@ -1924,7 +1638,7 @@ http://17953.live.streamtheworld.com/PUDAHUELAAC.aac
 http://s6.medionline.cl:9364/;
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Maray (90.9 FM Copiapo)
-http://162.210.39.218:24250/;
+http://184.154.173.147:8000/;stream.mp3
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Mirador (90.9 FM Lautaro)
 http://demo.dyndns.biz:8016/;
@@ -1933,16 +1647,13 @@ http://demo.dyndns.biz:8016/;
 http://mimix.mercurio.cl:8000/digitalfm
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", El Conquistador (91.3 FM)
-http://stream5.eltelon.com/el-conquistador-santiago.aac
+http://195.154.167.62:9314/;
 
-#EXTINF:-1, radio="true" tvg-logo="5CqSLQr.png" group-title="Radios Chilenas", ADN (91.7 FM)
-http://17833.live.streamtheworld.com/ADN.mp3
-
-##EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", ADN (91.7 FM) (con Video)
-##http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
+#EXTINF:-1, radio="true" tvg-logo="5CqSLQr.png" group-title="Radios Chilenas", ADN Radio (91.7 FM)
+http://19173.live.streamtheworld.com/ADNAAC.aac
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Centro FM (91.7 FM Gorbea)
-http://184.107.188.38:8040/;
+http://s00.midns.net:8040/;
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Desierto FM (92.1 FM Antofagasta)
 http://167.114.208.100:9864/;stream1
@@ -1950,14 +1661,14 @@ http://167.114.208.100:9864/;stream1
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Agricultura (92.1 FM)
 http://unlimited3-cl.dps.live/agricultura/aac/icecast.audio
 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Cariñosa (92.1 FM)(1)
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Cariñosa (92.1 FM)
 http://stream5.eltelon.com/carinosa-chillan.aac
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Sur (92.1 FM Los Angeles)
 http://ww3.radiosur.cl:5074/rsur
 
 #EXTINF:-1, radio="true" tvg-logo="Jbc9KX8.jpg" group-title="Radios Chilenas", Radioactiva (92.5 FM)
-http://18303.live.streamtheworld.com/ACTIVAAAC.aac
+http://18233.live.streamtheworld.com/ACTIVAAAC.aac
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Romina (92.5 FM Antofagasta)
 http://198.50.154.235:10246/;
@@ -1969,10 +1680,10 @@ http://167.114.208.100:9844/;
 http://atanua.broadcastchile.cl:7000/;
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Nuevo Amanecer (93.3 FM Fresia)
-http://62.210.203.78:8026/nuevoamanecer?type=.mp3
+http://144.217.72.163:9340/stream/1/
 
-##EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", La Clave (92.9 FM)
-#rtmp://wow2.cl.digitalproserver.com/laclavetv/laclavetvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/7/jwplayer.flash.swf live=1 pageUrl=http://media.digitalproserver.com/v2/live/laclavetv
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", La Clave (92.9 FM)
+http://tunein.digitalproserver.com/laclavebb.aac
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Primavera FM (93.5 FM Arica)
 http://cast.radioservicios.cl:9350/web
@@ -1983,14 +1694,8 @@ http://tunein.digitalproserver.com/universobb.aac
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Amanecer (93.7 FM Caldera)
 http://107.155.120.114:9954/;
 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Comunicativa (93.7 FM Ovalle)
-http://ip.audiostreaming.cl:9996/;
-
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Centinela (93.9 FM Yumbel)
 http://s3.medionline.cl:9964
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Fenomenal (93.9 FM Coyhaique)
-http://stream5.eltelon.com/fenomenal.aac
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Magistral (93.9 FM Galvarino)
 http://www.magistralfm.cl:9110/galvarino
@@ -2014,10 +1719,10 @@ http://radio.cic.userena.cl:8000/radio-uls
 http://stream5.eltelon.com/radio-la-discusion.aac
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Universal (94.7 FM Pitrufquen)
-http://184.107.188.38/;
+http://s01.midns.net/universal-aac
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Maxima (94.9 FM)
-http://198.27.65.159:9938/
+http://streamprochile.com:9938/stream/1/
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Amanda (94.9 FM Buin)
 http://amanda.cmtelcom.com/amanda128
@@ -2038,7 +1743,7 @@ http://tunein.digitalproserver.com/fmtiempobb.mp3
 http://stream5.eltelon.com:8000/universidad-de-tarapaca.aac
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Estilo (FM 95.9 Coyhaique)
-http://sc6.digitalproserver.com:7520/;
+http://s6.jcwebnew.com:7870/stream
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Araucana (95.9 FM Temuco)
 http://s6.medionline.cl:9180/;
@@ -2067,7 +1772,7 @@ http://stream5.eltelon.com/san-bartolome.aac
 #EXTINF:-1, radio="true" tvg-logo="hKoZUkW.jpg" group-title="Radios Chilenas", Radio Uno (97.1 FM)
 http://17933.live.streamtheworld.com/RADIO_UNOAAC.aac
 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio FM7 (Calama 97.3, Antofagasta 89.7)
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio FM7 (Calama 97.3 - Antofagasta 89.7)
 http://198.50.154.235:10258/stream
 
 #EXTINF:-1, radio="true" tvg-logo="kOx0dlx.png" group-title="Radios Chilenas", Radio Paloma (97.5 FM - Talca)
@@ -2079,11 +1784,8 @@ http://tunein.digitalproserver.com/zerobb.aac
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Sol (97.7 FM Antofagasta)
 http://online.radiosol.cl:8000/;
 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Sol (97.7 FM Antofagasta)(Alt)
-http://stream5.eltelon.com/sol-radio.aac
-
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Sol Austral (97.7 FM Aysen)
-http://162.210.39.218:24934/;
+http://184.154.173.147:8019/;
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Ventisqueros (97.7 FM Coyhaique)
 http://stream5.eltelon.com:8000/ventisqueros.aac
@@ -2092,7 +1794,7 @@ http://stream5.eltelon.com:8000/ventisqueros.aac
 http://ice.dallas.digitalproserver.com/bioconcebb.aac
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Camila (98.3 FM Los Angeles)
-http://stream5.eltelon.com:8000/archi-camila.aac
+http://190.107.176.55:1935/live/archi-camila/playlist.m3u8
 
 #EXTINF:-1, radio="true" tvg-logo="Et0VpX5.jpg" group-title="Radios Chilenas", FM Dos (98.5 FM)
 http://18913.live.streamtheworld.com/FMDOSAAC.aac
@@ -2110,7 +1812,7 @@ http://mimix.mercurio.cl:8000/digitalfm
 http://stream5.eltelon.com/archi-marcela.aac?type=.flv
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Carolina (99.3 FM)
-http://tunein.digitalproserver.com/carolinafmbb.aac
+http://unlimited3-cl.dps.live/carolinafm/aac/icecast.audio
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Arcoiris (99.3 FM Coyhaique)
 http://s6.jcwebnew.com:8120/;
@@ -2128,19 +1830,16 @@ http://unlimited1-cl.dps.live/biobiosantiago/aac/icecast.audio
 http://200.54.114.230:8000/;
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Infinita (100.1 FM)
-http://tunein.digitalproserver.com/infinitabb.aac
+http://unlimited1-us.dps.live/infinita/go/audio/now/livestream1.m3u8
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Andina (100.1 FM Arica)
-http://192.198.83.230:9976/;
+http://46.4.33.73:5000/stream/1/
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Paula FM (100.5 FM)
-http://unlimited3-cl.digitalproserver.com/radiopaula/hls/index.m3u8
+http://unlimited1-us.dps.live/radiopaula/go/audio/now/livestream1.m3u8
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Nueva Genial (100.5 FM Coyhaique)
 http://s6.jcwebnew.com:7555/stream
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Dinamica (100.7 FM Coronel)
-http://stream5.eltelon.com/dinamica.aac
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Futura FM (100.7 Talca)
 http://stream5.eltelon.com/futura.aac
@@ -2155,10 +1854,7 @@ http://s6.jcwebnew.com:8070/;
 http://cast3.serverhost.cl:8784/;
 
 #EXTINF:-1, radio="true" tvg-logo="rz44EST.png" group-title="Radios Chilenas", Radio Corazon (101.3 FM)
-http://18493.live.streamtheworld.com/CORAZONAAC.aac
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Revelacion (101.5 FM Canete)
-http://stream5.eltelon.com/doble-r.aac
+http://14003.live.streamtheworld.com/CORAZONAAC.aac
 
 #EXTINF:-1, radio="true" tvg-logo="6NJOV24.jpg" group-title="Radios Chilenas", Los 40 Principales (101.7 FM)
 http://18733.live.streamtheworld.com/LOS40_CHILEAAC.aac
@@ -2173,7 +1869,7 @@ http://stream3.rbm.cl:8010/playerweb.aac
 http://unlimited1-cl.digitalproserver.com/madero_antofagasta/mp3/icecast.audio
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Montecarlo (102.7 FM)
-http://iw.wolchile.net:8048/;
+http://montecarloradiostation2.better-than.tv/stream/1/
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio La Voz De Yungay (102.7 FM Ñuble)
 http://stream5.eltelon.com/archi-yungay.aac?type=.flv
@@ -2191,16 +1887,16 @@ http://streaming.fmokey.cl:8000/FmOkCP.mp3
 http://stream5.eltelon.com/centro.aac
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio UCV FM (103.5 FM Valparaiso)
-rtmp://radio.cl.digitalproserver.com/ucvradio/ucvradiolive/ playpath=ucvradio.stream swfUrl=http://dps.vod.lax-latam.digitalproserver.com/jw/latest/jwplayer.flash.swf?v=55 live=1 pageUrl=http://media.digitalproserver.com/v2/radio/ucvradio
+http://sonando.us.digitalproserver.com/ucvradio
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Contacto (103.9 FM Talagante)
-http://184.107.188.34:8697
+http://s02.midns.net:8697/stream/1/
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Romantica (104.1 FM)
-http://tunein.digitalproserver.com/romanticabb.mp3
+http://unlimited1-us.dps.live/romantica/aac/icecast.audio
 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Disney (104.9)
-rtmp://radiocl.digitalproserver.com:443/disneycl/disneycllive/disneycl.stream
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Disney (104.9 FM)
+http://unlimited2-us.dps.live/disney/aac/icecast.audio
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio 1049 (FM 104.9 Pucon)
 http://audio.streaminghd.cl:8034/;
@@ -2209,7 +1905,7 @@ http://audio.streaminghd.cl:8034/;
 http://mp3.sonarfm.cl/;
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Pinamar (105.3 FM La Serena)
-http://184.107.188.34:8034/;
+http://s02.midns.net:8034/stream/1/
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Positiva (FM 105.5 FM Concepcion)
 http://mimix.mercurio.cl:8000/concepcion2
@@ -2221,10 +1917,7 @@ http://stream5.eltelon.com/radio-extrema.aac
 http://stream5.eltelon.com/nativa.aac
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Cooperativa (106.7 FM)
-http://unlimited1-us.digitalproserver.com/cooperativafm/mp3/icecast.audio
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Paula (106.9 FM)
-http://tunein.digitalproserver.com/paulafm.mp3
+http://unlimited3-cl.dps.live/cooperativafm/aac/icecast.audio
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Plus FM (106.9 FM Antofagasta)
 http://sonando.us.digitalproserver.com/fmplus_aac
@@ -2238,17 +1931,11 @@ http://stream5.eltelon.com/candelaria.aac
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Esperanza (106.9 FM Temuco)
 http://s6.jcwebnew.com:7800/;
 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Maxima (107.1 FM)
-http://198.27.65.159:9938/;
-
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Popular (107.3 FM Coihueco :lib)
 http://192.99.150.234:9920/;
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Creaciones (107.5 FM Temuco)
 http://188.165.187.84:8049/stream?type=.mp3?1458229740632.aac
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", El Bosque (107.9 FM)
-http://104.236.248.181:8766
 
 #EXTINF:-1, radio="true" tvg-logo="IdDLahq.png" group-title="Radios Chilenas", NIU Radio
 http://live-origin.us.niu.cl/niu_radio.aac
@@ -2277,9 +1964,6 @@ http://live-origin.us.niu.cl/niu_live.aac
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Club 80 (Online)
 http://play.enhd.co:7024/;
 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", FMBox (Online)
-http://stream.fmbox.cl:9994
-
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Candela FM (Online)
 http://tunein.digitalproserver.com/candelabb.aac
 
@@ -2299,7 +1983,7 @@ http://cast3.serverhost.cl:8760/;
 http://radio1.us.mediastre.am/siente.aac
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Celeste (Online - Copiapo)
-http://radio.chilestreaming.cl:9856/;
+http://s6.jcwebnew.com:7970/stream/1/
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Aternativa FM (Online - Huasco)
 http://107.155.120.114:9944/;
@@ -2308,7 +1992,7 @@ http://107.155.120.114:9944/;
 http://ip.audiostreaming.cl:9764/;
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Riquelme Coquimbo (Online)
-http://162.210.39.218:24666/;
+http://184.154.173.147:8004/stream
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", UCT Radio Temuco (Online)
 http://audio.uctradio.cl/radio
@@ -2323,22 +2007,13 @@ http://167.114.119.122:9982/;stream/1
 http://167.114.119.122:9978/;stream/1
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Nuevo Mundo (930 AM)
-http://www.radionuevomundo.cl/playlist.pls
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Chilena Concepcion (1030 AM)
-http://unlimited1-cl.digitalproserver.com/chilena/aac/icecast.audio
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio UBB (1360 AM Concepcion)
-http://radioubb.cl:8000/online
+http://190.82.105.90:8012/;
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Llacolen (1600 AM Concepcion)
 http://sc.digitalproserver.com:9532/;
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Portales (1180 AM)
 http://s6.jcwebnew.com:8060/stream
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Caracol (590 AM Concepcion)
-http://208.80.54.40/CARACOL_RADIOAAC_SC
 
 #EXTINF:-1, radio="true" tvg-logo="muAbebc.png" group-title="Radios Chilenas", I Love Radio | Online
 http://stream12.iloveradio.de/iloveradio1-aac.mp3
@@ -2361,10 +2036,19 @@ http://stream12.iloveradio.de/iloveradio4-aac.mp3
 #EXTINF:-1, radio="true" tvg-logo="muAbebc.png" group-title="Radios Chilenas", I Love Radio Pop | Online
 http://stream12.iloveradio.de/iloveradio10-aac.mp3
 
+#EXTINF:-1, radio="true" tvg-logo="muAbebc.png" group-title="Radios Chilenas", Valentin Letelier (Valparaiso)
+http://radio.cl.mediastre.am/valentinletelier.aac
+
+#EXTINF:-1, radio="true" tvg-logo="muAbebc.png" group-title="Radios Chilenas", Radio Ritoque (Valparaiso)
+http://sonando.us.digitalproserver.com/ritoquefm_aac
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Festival de Viña del Mar
+http://www.festival.cl:8000/listen.pls
+
 #EXTINF:-1, radio="true" tvg-logo="muAbebc.png" group-title="Radios del mundo", Bloomberg Radio US | Online
 https://live-bloomberg-us-east.global.ssl.fastly.net/btv/desktop/bbr_radio.m3u8
 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios del mundo", Kool London Radio
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios del mundo", Kool London Radio | Online
 http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Buena Música FM | Online
@@ -2375,6 +2059,18 @@ http://s.imusicaradios.com.br:1935/imusica_radio/brasil.stream/playlist.m3u8
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios del mundo", Radio Studio Souto New Age | Italia
 http://192.99.150.31:8353/stream
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios del mundo", iHeart 80s | USA
+http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios del mundo", Lite FM 106.7 | USA
+http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios del mundo", Nick Radio | USA
+http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios del mundo", FM O Dia | Brasil
+http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist_w1559633248.m3u8
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Leeme",- [COLOR cyan]http://lao.pe/tv[/COLOR] -
 http://127.0.0.1
